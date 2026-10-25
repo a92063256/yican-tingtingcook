@@ -1,0 +1,55 @@
+{
+  "name": "yican-tingtingcook",
+  "version": "0.1.0",
+  "license": "AGPL-3.0-only",
+  "private": true,
+  "yicanDeployment": 1,
+  "type": "module",
+  "scripts": {
+    "dev": "node scripts/dev.mjs",
+    "build": "vue-tsc --noEmit && vite build",
+    "package:portable": "node scripts/package-portable.mjs",
+    "test:portable": "node scripts/portable-smoke.mjs",
+    "test": "vitest run",
+    "preview": "vite preview --host 127.0.0.1",
+    "start": "tsx server/index.ts",
+    "test:server": "vitest run server",
+    "import:howtocook": "tsx server/import-howtocook.ts",
+    "prune:categories": "tsx server/prune-categories.ts",
+    "backup": "tsx server/backup.ts",
+    "db:rehearse": "tsx server/migrate.ts",
+    "db:migrate": "tsx server/migrate.ts --apply",
+    "db:export-legacy": "tsx server/export-legacy.ts",
+    "open:meals": "tsx server/open-meals.ts",
+    "seed:pantry": "tsx server/seed-pantry.ts",
+    "test:load": "tsx server/load-test.ts"
+  },
+  "dependencies": {
+    "immer": "^10.1.1",
+    "lucide-vue-next": "0.468.0",
+    "vue": "3.5.21",
+    "zod": "^4.6.5"
+  },
+  "devDependencies": {
+    "@types/node": "22.18.6",
+    "@vitejs/plugin-vue": "6.0.1",
+    "esbuild": "0.28.2",
+    "tsx": "^4.23.13",
+    "typescript": "5.9.2",
+    "vite": "7.3.6",
+    "vitest": "4.1.11",
+    "vue-tsc": "3.0.8"
+  },
+  "description": "手机优先、可在本机和可信局域网运行的家庭厨房与点菜应用",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/a92063256/yican-tingtingcook.git"
+  },
+  "homepage": "https://github.com/a92063256/yican-tingtingcook#readme",
+  "bugs": {
+    "url": "https://github.com/a92063256/yican-tingtingcook/issues"
+  },
+  "engines": {
+    "node": ">=24"
+  }
+}

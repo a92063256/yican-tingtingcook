@@ -1,0 +1,5 @@
+# Preserve upstream bytes: catalog startup verifies their SHA-256 values.
+content/howtocook/manifest.json -text -whitespace
+content/howtocook/source/** -text -whitespace
+content/howtocook/licenses/** -text -whitespace
+public/images/*.webp binary

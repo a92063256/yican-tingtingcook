@@ -1,0 +1,1145 @@
+{
+  "schemaVersion": 1,
+  "archiveSha256": "d878698b392acf4ba698d21fffee2821ad084e6859f86028b7a1081d4fdc4903",
+  "previousImages": {},
+  "items": {
+    "howtocook-b69537e9b0c4b77966f5": {
+      "action": "remove",
+      "reason": "原封面借自《干煎阿根廷红虾》，不能准确呈现《咖喱炒蟹》的主料与成品形态；移除借图。"
+    },
+    "howtocook-b9a1d9770073562a25ba": {
+      "action": "remove",
+      "reason": "原封面借自《小龙虾》，不能准确呈现《响油鳝丝》的主料与成品形态；移除借图。"
+    },
+    "howtocook-cc2c4f786f63e19df366": {
+      "action": "remove",
+      "reason": "原封面借自《微波炉鸡蛋羹》，不能准确呈现《微波葱姜黑鳕鱼》的主料与成品形态；移除借图。"
+    },
+    "howtocook-651c621bb13845189f00": {
+      "action": "remove",
+      "reason": "原封面借自《清蒸鲈鱼》，不能准确呈现《清蒸生蚝》的主料与成品形态；移除借图。"
+    },
+    "howtocook-a5ad40355b767e44c78b": {
+      "action": "remove",
+      "reason": "原封面借自《芥末黄油罗氏虾》，不能准确呈现《红烧鱼》的主料与成品形态；移除借图。"
+    },
+    "howtocook-961ae3ea5f72116b341b": {
+      "action": "remove",
+      "reason": "原封面借自《蒜香黄油虾》，不能准确呈现《红烧鱼头》的主料与成品形态；移除借图。"
+    },
+    "howtocook-2e80c786dc11857d9c55": {
+      "action": "remove",
+      "reason": "原封面借自《葱烧海参》，不能准确呈现《红烧鲤鱼》的主料与成品形态；移除借图。"
+    },
+    "howtocook-0ed628aba05a38c9ff09": {
+      "action": "remove",
+      "reason": "原封面借自《无骨鸡爪》，不能准确呈现《肉蟹煲》的主料与成品形态；移除借图。"
+    },
+    "howtocook-d3570dbb127b7c8dc814": {
+      "action": "remove",
+      "reason": "原封面借自《葱油桂鱼》，不能准确呈现《酱炖蟹》的主料与成品形态；移除借图。"
+    },
+    "howtocook-a1ba8de42384bd276c5c": {
+      "action": "remove",
+      "reason": "原封面借自《无厨师机蜂蜜面包》，不能准确呈现《吐司果酱》的主料与成品形态；移除借图。"
+    },
+    "howtocook-e9b179096587074a0892": {
+      "action": "remove",
+      "reason": "原封面借自《农家一碗香》，不能准确呈现《意式香肠北非蛋》的主料与成品形态；移除借图。"
+    },
+    "howtocook-6bb8f801a8b8e8c2f2c1": {
+      "action": "remove",
+      "reason": "原封面借自《茄子肉煎饼》，不能准确呈现《手抓饼》的主料与成品形态；移除借图。"
+    },
+    "howtocook-5ab770d281369817bca1": {
+      "action": "remove",
+      "reason": "原封面借自《日式咖喱饭》，不能准确呈现《桂圆红枣粥》的主料与成品形态；移除借图。"
+    },
+    "howtocook-515e68668fde39090e65": {
+      "action": "remove",
+      "reason": "原封面借自《提拉米苏》，不能准确呈现《燕麦鸡蛋饼》的主料与成品形态；移除借图。"
+    },
+    "howtocook-daeebaa77c3adbd77520": {
+      "action": "remove",
+      "reason": "原封面借自《空气炸锅照烧鸡饭》，不能准确呈现《空气炸锅面包片》的主料与成品形态；移除借图。"
+    },
+    "howtocook-a27c91703f1aaf0595c7": {
+      "action": "remove",
+      "reason": "原封面借自《啤酒鸭》，不能准确呈现《美式炒蛋》的主料与成品形态；移除借图。"
+    },
+    "howtocook-b13f782654bf3db86b9d": {
+      "action": "replace",
+      "reason": "复核主料与成品形态后，使用《鸡蛋羹》的同类成品照；配料或具体做法不同，标明仅供参考。",
+      "cover": {
+        "sha256": "2188f40f9ba9fe8d25ac46e8a330bb478433bc3b150f424e17a6345cf4caddbb",
+        "bytes": 23032,
+        "width": 959,
+        "height": 959,
+        "sourcePageUrl": "https://github.com/Anduin2017/HowToCook/blob/2b19c9e9ee926fd925a68207a57582a338813f9c/dishes/vegetable_dish/鸡蛋羹/鸡蛋羹.md",
+        "sourceImageUrl": "https://github.com/Anduin2017/HowToCook/raw/2b19c9e9ee926fd925a68207a57582a338813f9c/dishes/vegetable_dish/鸡蛋羹/鸡蛋羹.jpg",
+        "license": "The Unlicense",
+        "licenseUrl": "https://github.com/Anduin2017/HowToCook/blob/2b19c9e9ee926fd925a68207a57582a338813f9c/LICENSE",
+        "kind": "substituted"
+      }
+    },
+    "howtocook-35820a0555d3e6826f76": {
+      "action": "remove",
+      "reason": "原封面借自《河南蒸面条》，不能准确呈现《蒸花卷》的主料与成品形态；移除借图。"
+    },
+    "howtocook-61c1012b42f158b1e137": {
+      "action": "remove",
+      "reason": "原封面借自《澳门湿版免治牛肉饭》，不能准确呈现《蛋煎糍粑》的主料与成品形态；移除借图。"
+    },
+    "howtocook-f3b656b5a03f4aebaec8": {
+      "action": "remove",
+      "reason": "原封面借自《醉排骨》，不能准确呈现《金枪鱼酱三明治》的主料与成品形态；移除借图。"
+    },
+    "howtocook-12863092d2c6437b5f1e": {
+      "action": "remove",
+      "reason": "原封面借自《油泼辣子》，不能准确呈现《炸串酱料》的主料与成品形态；移除借图。"
+    },
+    "howtocook-f26c5646a21a3d7e6eaa": {
+      "action": "remove",
+      "reason": "原封面借自《油泼辣子》，不能准确呈现《糖醋汁》的主料与成品形态；移除借图。"
+    },
+    "howtocook-12a0f2535a3d3305c059": {
+      "action": "remove",
+      "reason": "原封面借自《酸奶意式奶冻》，不能准确呈现《奥利奥冰淇淋》的主料与成品形态；移除借图。"
+    },
+    "howtocook-6cda991d90ce7cd9ab00": {
+      "action": "remove",
+      "reason": "原封面借自《炸鲜奶》，不能准确呈现《红柚蛋糕》的主料与成品形态；移除借图。"
+    },
+    "howtocook-d23cfa9525fbb4e0b1d6": {
+      "action": "remove",
+      "reason": "原封面借自《雪花酥》，不能准确呈现《胡萝卜甜糕》的主料与成品形态；移除借图。"
+    },
+    "howtocook-7047e23423f0ad9be66d": {
+      "action": "remove",
+      "reason": "原封面借自《龟苓膏》，不能准确呈现《草莓冰淇淋》的主料与成品形态；移除借图。"
+    },
+    "howtocook-1282bbd3a9c9b164d1e7": {
+      "action": "remove",
+      "reason": "原封面借自《提拉米苏》，不能准确呈现《魔芋蛋糕》的主料与成品形态；移除借图。"
+    },
+    "howtocook-b8b6c7d1722ec85dc29b": {
+      "action": "remove",
+      "reason": "原封面借自《海边落日》，不能准确呈现《Mojito莫吉托》的主料与成品形态；移除借图。"
+    },
+    "howtocook-678acb8ed4c05c1bb83a": {
+      "action": "remove",
+      "reason": "原封面借自《酸梅汤》，不能准确呈现《冬瓜茶》的主料与成品形态；移除借图。"
+    },
+    "howtocook-460b515020dec16647fa": {
+      "action": "replace",
+      "reason": "逐张复核上游同一道菜的成品图，替换原借图或备料过程图；仅缩小并转为 WebP，未改动菜品主体。",
+      "cover": {
+        "sha256": "723ab04ea2980d983b2d632247018e90d3621d13467aa43afece7daf1dce3e16",
+        "bytes": 43586,
+        "width": 845,
+        "height": 560,
+        "kind": "original",
+        "upstreamBlobSha": "3442a050a77025e494b0c0692698ad700ef622f1",
+        "sourcePageUrl": "https://github.com/Anduin2017/HowToCook/blob/2b19c9e9ee926fd925a68207a57582a338813f9c/dishes/drink/%E5%86%B0%E7%B2%89/%E5%86%B0%E7%B2%89.md",
+        "sourceImageUrl": "https://raw.githubusercontent.com/Anduin2017/HowToCook/2b19c9e9ee926fd925a68207a57582a338813f9c/dishes/drink/%E5%86%B0%E7%B2%89/%E7%9F%B3%E5%87%89%E7%B2%89%28%E5%86%B0%E7%B2%89%29%E6%88%90%E5%93%811.jpg",
+        "license": "The Unlicense",
+        "licenseUrl": "https://github.com/Anduin2017/HowToCook/blob/2b19c9e9ee926fd925a68207a57582a338813f9c/LICENSE"
+      }
+    },
+    "howtocook-b48ca1e354ea639186bc": {
+      "action": "remove",
+      "reason": "原封面借自《酸梅汤》，不能准确呈现《印度奶茶》的主料与成品形态；移除借图。"
+    },
+    "howtocook-ffc03aba56cef3586444": {
+      "action": "remove",
+      "reason": "原封面借自《金汤力》，不能准确呈现《可乐桶》的主料与成品形态；移除借图。"
+    },
+    "howtocook-ed29771026e7eed6d734": {
+      "action": "remove",
+      "reason": "原封面借自《菠萝咖啡特调》，不能准确呈现《奶茶》的主料与成品形态；移除借图。"
+    },
+    "howtocook-e403ba22275a0439f5f4": {
+      "action": "remove",
+      "reason": "原封面借自《菠萝咖啡特调》，不能准确呈现《杨枝甘露》的主料与成品形态；移除借图。"
+    },
+    "howtocook-91c84c26992872cad814": {
+      "action": "remove",
+      "reason": "原封面借自《奇异果菠菜特调》，不能准确呈现《泰国手标红茶》的主料与成品形态；移除借图。"
+    },
+    "howtocook-3a181639cf9138dd900d": {
+      "action": "remove",
+      "reason": "原封面借自《耙耙柑茶》，不能准确呈现《牛油果拉西》的主料与成品形态；移除借图。"
+    },
+    "howtocook-342d514cbf79a1163d5c": {
+      "action": "replace",
+      "reason": "复核主料与成品形态后，使用《酸梅汤》的同类成品照；配料或具体做法不同，标明仅供参考。",
+      "cover": {
+        "sha256": "dd2bfc1f255690f987b99d02e0a8572ffe6730104e1b8cd68e5c97b3f79c349f",
+        "bytes": 102718,
+        "width": 615,
+        "height": 820,
+        "sourcePageUrl": "https://github.com/Anduin2017/HowToCook/blob/2b19c9e9ee926fd925a68207a57582a338813f9c/dishes/drink/酸梅汤/酸梅汤.md",
+        "sourceImageUrl": "https://github.com/Anduin2017/HowToCook/raw/2b19c9e9ee926fd925a68207a57582a338813f9c/dishes/drink/酸梅汤/imges/sour_plum_soup.jpg",
+        "license": "The Unlicense",
+        "licenseUrl": "https://github.com/Anduin2017/HowToCook/blob/2b19c9e9ee926fd925a68207a57582a338813f9c/LICENSE",
+        "kind": "substituted"
+      }
+    },
+    "howtocook-45ad36b6133c9eea93e8": {
+      "action": "remove",
+      "reason": "原封面借自《海边落日》，不能准确呈现《长岛冰茶》的主料与成品形态；移除借图。"
+    },
+    "howtocook-e2015e2e0cc1c5e72c4f": {
+      "action": "replace",
+      "reason": "复核主料与成品形态后，使用《啤酒鸭》的同类成品照；配料或具体做法不同，标明仅供参考。",
+      "cover": {
+        "sha256": "5b4e4cd7bacb3caad89a2e5cc28fdf6df49733532e8164652334bec8d7591019",
+        "bytes": 24798,
+        "width": 494,
+        "height": 550,
+        "sourcePageUrl": "https://github.com/Anduin2017/HowToCook/blob/2b19c9e9ee926fd925a68207a57582a338813f9c/dishes/meat_dish/啤酒鸭/啤酒鸭.md",
+        "sourceImageUrl": "https://github.com/Anduin2017/HowToCook/raw/2b19c9e9ee926fd925a68207a57582a338813f9c/dishes/meat_dish/啤酒鸭/啤酒鸭.jpg",
+        "license": "The Unlicense",
+        "licenseUrl": "https://github.com/Anduin2017/HowToCook/blob/2b19c9e9ee926fd925a68207a57582a338813f9c/LICENSE",
+        "kind": "substituted"
+      }
+    },
+    "howtocook-50cf74d8dc74aa7a8042": {
+      "action": "remove",
+      "reason": "原封面借自《糖醋排骨》，不能准确呈现《冷吃兔》的主料与成品形态；移除借图。"
+    },
+    "howtocook-3a892c884d6f39e0b643": {
+      "action": "remove",
+      "reason": "原封面借自《柱候牛腩》，不能准确呈现《可乐鸡翅》的主料与成品形态；移除借图。"
+    },
+    "howtocook-5a753afd111fed656ea9": {
+      "action": "remove",
+      "reason": "原封面借自《卤菜》，不能准确呈现《台式卤肉饭》的主料与成品形态；移除借图。"
+    },
+    "howtocook-288b3f0b016a90e11ec5": {
+      "action": "remove",
+      "reason": "原封面借自《老式锅包肉》，不能准确呈现《咕噜肉》的主料与成品形态；移除借图。"
+    },
+    "howtocook-f82a5ad59d69212fac8f": {
+      "action": "remove",
+      "reason": "原封面借自《水煮牛肉》，不能准确呈现《商芝肉》的主料与成品形态；移除借图。"
+    },
+    "howtocook-3edbafd077f73ff38ff5": {
+      "action": "replace",
+      "reason": "逐张复核上游同一道菜的成品图，替换原借图或备料过程图；仅缩小并转为 WebP，未改动菜品主体。",
+      "cover": {
+        "sha256": "3f10e955729e631bee42072ef3c1d5d66eb6cf437f7df2e5ee80e28d7a8ad6da",
+        "bytes": 81182,
+        "width": 960,
+        "height": 720,
+        "kind": "original",
+        "upstreamBlobSha": "2454b895af8aeaabe800dbc788603b49413207cc",
+        "sourcePageUrl": "https://github.com/Anduin2017/HowToCook/blob/2b19c9e9ee926fd925a68207a57582a338813f9c/dishes/meat_dish/%E5%9C%9F%E8%B1%86%E7%82%96%E6%8E%92%E9%AA%A8/%E5%9C%9F%E8%B1%86%E7%82%96%E6%8E%92%E9%AA%A8.md",
+        "sourceImageUrl": "https://raw.githubusercontent.com/Anduin2017/HowToCook/2b19c9e9ee926fd925a68207a57582a338813f9c/dishes/meat_dish/%E5%9C%9F%E8%B1%86%E7%82%96%E6%8E%92%E9%AA%A8/%E6%8E%92%E9%AA%A82.jpg",
+        "license": "The Unlicense",
+        "licenseUrl": "https://github.com/Anduin2017/HowToCook/blob/2b19c9e9ee926fd925a68207a57582a338813f9c/LICENSE"
+      }
+    },
+    "howtocook-1f6cfac235de433a9e72": {
+      "action": "remove",
+      "reason": "原封面借自《戚风蛋糕》，不能准确呈现《奥尔良风味烤鸡腿》的主料与成品形态；移除借图。"
+    },
+    "howtocook-95eb9c00a57faaa5db74": {
+      "action": "remove",
+      "reason": "原封面借自《湘祁米夫鸭》，不能准确呈现《姜葱捞鸡》的主料与成品形态；移除借图。"
+    },
+    "howtocook-127edac8e578c1e16b1e": {
+      "action": "keep",
+      "reason": "原图是黑椒牛柳；牛肉条与蔬菜配菜的形态接近，但调味不同，保留为参考图。"
+    },
+    "howtocook-d15091497996c3ef1cfe": {
+      "action": "remove",
+      "reason": "原封面借自《咖喱肥牛》，不能准确呈现《小炒肉》的主料与成品形态；移除借图。"
+    },
+    "howtocook-27b738de814e6ba588e6": {
+      "action": "remove",
+      "reason": "原封面借自《豆豉鲮鱼油麦菜》，不能准确呈现《小米辣炒肉》的主料与成品形态；移除借图。"
+    },
+    "howtocook-2ed6cf0478f173fe47cb": {
+      "action": "remove",
+      "reason": "原封面借自《干煸仔鸡》，不能准确呈现《小酥肉》的主料与成品形态；移除借图。"
+    },
+    "howtocook-aa59c235ffc20cdabdb2": {
+      "action": "remove",
+      "reason": "原封面借自《回锅肉》，不能准确呈现《尖椒炒牛肉》的主料与成品形态；移除借图。"
+    },
+    "howtocook-16663c525e6b39c6d069": {
+      "action": "remove",
+      "reason": "原封面借自《宫保鸡丁》，不能准确呈现《山西过油肉》的主料与成品形态；移除借图。"
+    },
+    "howtocook-2bde2d31169c74e90204": {
+      "action": "remove",
+      "reason": "原封面借自《芋泥雪媚娘》，不能准确呈现《带把肘子》的主料与成品形态；移除借图。"
+    },
+    "howtocook-ca670c5a113ea88e4df5": {
+      "action": "replace",
+      "reason": "逐张复核上游同一道菜的成品图，替换原借图或备料过程图；仅缩小并转为 WebP，未改动菜品主体。",
+      "cover": {
+        "sha256": "769c61e009f2e36904a5cea95951eb037cc517b55e176adc709950e99e222cc2",
+        "bytes": 53502,
+        "width": 960,
+        "height": 720,
+        "kind": "original",
+        "upstreamBlobSha": "d951e7190c584664a823e584edbdf41c502004da",
+        "sourcePageUrl": "https://github.com/Anduin2017/HowToCook/blob/2b19c9e9ee926fd925a68207a57582a338813f9c/dishes/meat_dish/%E5%BE%BD%E6%B4%BE%E7%BA%A2%E7%83%A7%E8%82%89/%E5%BE%BD%E6%B4%BE%E7%BA%A2%E7%83%A7%E8%82%89.md",
+        "sourceImageUrl": "https://raw.githubusercontent.com/Anduin2017/HowToCook/2b19c9e9ee926fd925a68207a57582a338813f9c/dishes/meat_dish/%E5%BE%BD%E6%B4%BE%E7%BA%A2%E7%83%A7%E8%82%89/2.jpeg",
+        "license": "The Unlicense",
+        "licenseUrl": "https://github.com/Anduin2017/HowToCook/blob/2b19c9e9ee926fd925a68207a57582a338813f9c/LICENSE"
+      }
+    },
+    "howtocook-36c6b1b2610cd383dbb5": {
+      "action": "remove",
+      "reason": "原封面借自《烤箱版巴斯克芝士蛋糕》，不能准确呈现《意式烤鸡》的主料与成品形态；移除借图。"
+    },
+    "howtocook-c5fddf9813b2dc7a05f9": {
+      "action": "remove",
+      "reason": "原封面借自《小炒黄牛肉》，不能准确呈现《杀猪菜》的主料与成品形态；移除借图。"
+    },
+    "howtocook-abbf66d7a0c128704a71": {
+      "action": "remove",
+      "reason": "原封面借自《尖叫牛蛙》，不能准确呈现《枝竹羊腩煲》的主料与成品形态；移除借图。"
+    },
+    "howtocook-4217ebd7f1e5c4535573": {
+      "action": "replace",
+      "reason": "逐张复核上游同一道菜的成品图，替换原借图或备料过程图；仅缩小并转为 WebP，未改动菜品主体。",
+      "cover": {
+        "sha256": "aaf8ff3a596cfd7d3d412a6ca1e7af9d0dd59f93c814954a391acde27321a83d",
+        "bytes": 53208,
+        "width": 960,
+        "height": 720,
+        "kind": "original",
+        "upstreamBlobSha": "bafc39a81c631a9ee73d2212cb0e7f66adbfc825",
+        "sourcePageUrl": "https://github.com/Anduin2017/HowToCook/blob/2b19c9e9ee926fd925a68207a57582a338813f9c/dishes/meat_dish/%E6%A2%85%E8%8F%9C%E6%89%A3%E8%82%89/%E6%A2%85%E8%8F%9C%E6%89%A3%E8%82%89.md",
+        "sourceImageUrl": "https://raw.githubusercontent.com/Anduin2017/HowToCook/2b19c9e9ee926fd925a68207a57582a338813f9c/dishes/meat_dish/%E6%A2%85%E8%8F%9C%E6%89%A3%E8%82%89/4.jpeg",
+        "license": "The Unlicense",
+        "licenseUrl": "https://github.com/Anduin2017/HowToCook/blob/2b19c9e9ee926fd925a68207a57582a338813f9c/LICENSE"
+      }
+    },
+    "howtocook-f43c7cdf6c27f0660780": {
+      "action": "remove",
+      "reason": "原封面借自《空气炸锅脆皮现腌炸鸡》，不能准确呈现《椒盐排条》的主料与成品形态；移除借图。"
+    },
+    "howtocook-b898ff51880d2d8ba706": {
+      "action": "remove",
+      "reason": "原封面借自《凉拌鸡丝》，不能准确呈现《水煮肉片》的主料与成品形态；移除借图。"
+    },
+    "howtocook-401011c583625d48d860": {
+      "action": "remove",
+      "reason": "原封面借自《瘦肉土豆片》，不能准确呈现《洋葱炒猪肉》的主料与成品形态；移除借图。"
+    },
+    "howtocook-f13ea0db41d81b53d884": {
+      "action": "remove",
+      "reason": "原封面借自《烤蛋挞》，不能准确呈现《烤鸡翅》的主料与成品形态；移除借图。"
+    },
+    "howtocook-91b68386ebf30740e35f": {
+      "action": "remove",
+      "reason": "原封面借自《牛排》，不能准确呈现《煎烤羊排》的主料与成品形态；移除借图。"
+    },
+    "howtocook-b43bc0d5b054c4a894d9": {
+      "action": "remove",
+      "reason": "原封面借自《羊肉汤》，不能准确呈现《猪肉烩酸菜》的主料与成品形态；移除借图。"
+    },
+    "howtocook-f37f90893ddaa1c1ad10": {
+      "action": "remove",
+      "reason": "原封面借自《芥末罗氏虾》，不能准确呈现《甜辣烤全翅》的主料与成品形态；移除借图。"
+    },
+    "howtocook-dccabcb0d4a405aa4350": {
+      "action": "replace",
+      "reason": "逐张复核上游同一道菜的成品图，替换原借图或备料过程图；仅缩小并转为 WebP，未改动菜品主体。",
+      "cover": {
+        "sha256": "9ede8e8b37052e1ef127ba097612409c255f675123dfb0cf3615899685204f8c",
+        "bytes": 64572,
+        "width": 640,
+        "height": 520,
+        "kind": "original",
+        "upstreamBlobSha": "78a0e02093b2e20f3e91f0d9d84d33ec150482ce",
+        "sourcePageUrl": "https://github.com/Anduin2017/HowToCook/blob/2b19c9e9ee926fd925a68207a57582a338813f9c/dishes/meat_dish/%E7%94%B0%E8%9E%BA%E9%85%BF/%E7%94%B0%E8%9E%BA%E9%85%BF.md",
+        "sourceImageUrl": "https://raw.githubusercontent.com/Anduin2017/HowToCook/2b19c9e9ee926fd925a68207a57582a338813f9c/dishes/meat_dish/%E7%94%B0%E8%9E%BA%E9%85%BF/%E6%88%90%E5%93%81.jpeg",
+        "license": "The Unlicense",
+        "licenseUrl": "https://github.com/Anduin2017/HowToCook/blob/2b19c9e9ee926fd925a68207a57582a338813f9c/LICENSE"
+      }
+    },
+    "howtocook-e708c271324aa14e1bad": {
+      "action": "remove",
+      "reason": "原封面借自《青椒土豆炒肉》，不能准确呈现《番茄红酱》的主料与成品形态；移除借图。"
+    },
+    "howtocook-3a4b1f2e6d2d06c0786a": {
+      "action": "remove",
+      "reason": "原封面借自《日式肥牛丼饭》，不能准确呈现《白菜猪肉炖粉条》的主料与成品形态；移除借图。"
+    },
+    "howtocook-eaaaaa89ddc317c18142": {
+      "action": "remove",
+      "reason": "原封面借自《电饭煲蒸米饭》，不能准确呈现《粉蒸肉》的主料与成品形态；移除借图。"
+    },
+    "howtocook-788feaed2146ba642afe": {
+      "action": "remove",
+      "reason": "原封面借自《糖醋排骨》，不能准确呈现《糖醋里脊》的主料与成品形态；移除借图。"
+    },
+    "howtocook-373d56f2f32aba5c1867": {
+      "action": "replace",
+      "reason": "复核主料与成品形态后，使用《徽派红烧肉》的同类成品照；配料或具体做法不同，标明仅供参考。",
+      "cover": {
+        "sha256": "769c61e009f2e36904a5cea95951eb037cc517b55e176adc709950e99e222cc2",
+        "bytes": 53502,
+        "width": 960,
+        "height": 720,
+        "kind": "substituted",
+        "upstreamBlobSha": "d951e7190c584664a823e584edbdf41c502004da",
+        "sourcePageUrl": "https://github.com/Anduin2017/HowToCook/blob/2b19c9e9ee926fd925a68207a57582a338813f9c/dishes/meat_dish/%E5%BE%BD%E6%B4%BE%E7%BA%A2%E7%83%A7%E8%82%89/%E5%BE%BD%E6%B4%BE%E7%BA%A2%E7%83%A7%E8%82%89.md",
+        "sourceImageUrl": "https://raw.githubusercontent.com/Anduin2017/HowToCook/2b19c9e9ee926fd925a68207a57582a338813f9c/dishes/meat_dish/%E5%BE%BD%E6%B4%BE%E7%BA%A2%E7%83%A7%E8%82%89/2.jpeg",
+        "license": "The Unlicense",
+        "licenseUrl": "https://github.com/Anduin2017/HowToCook/blob/2b19c9e9ee926fd925a68207a57582a338813f9c/LICENSE"
+      }
+    },
+    "howtocook-0eb9f4426ab5d8da8be5": {
+      "action": "replace",
+      "reason": "逐张复核上游同一道菜的成品图，替换原借图或备料过程图；仅缩小并转为 WebP，未改动菜品主体。",
+      "cover": {
+        "sha256": "247380f94a2ad869de861946e7aba8fdfbcaa2a32a1a775b3e6f181c40954193",
+        "bytes": 49408,
+        "width": 602,
+        "height": 452,
+        "kind": "original",
+        "upstreamBlobSha": "bf823ee02020a1295ecddd05d11fbe0cb81da83b",
+        "sourcePageUrl": "https://github.com/Anduin2017/HowToCook/blob/2b19c9e9ee926fd925a68207a57582a338813f9c/dishes/meat_dish/%E7%BA%A2%E7%83%A7%E8%82%89/%E7%AE%80%E6%98%93%E7%BA%A2%E7%83%A7%E8%82%89.md",
+        "sourceImageUrl": "https://raw.githubusercontent.com/Anduin2017/HowToCook/2b19c9e9ee926fd925a68207a57582a338813f9c/dishes/meat_dish/%E7%BA%A2%E7%83%A7%E8%82%89/000.jpg",
+        "license": "The Unlicense",
+        "licenseUrl": "https://github.com/Anduin2017/HowToCook/blob/2b19c9e9ee926fd925a68207a57582a338813f9c/LICENSE"
+      }
+    },
+    "howtocook-0d42f08d156d6500ef8e": {
+      "action": "remove",
+      "reason": "原封面借自《香菇滑鸡》，不能准确呈现《红烧鸡翅》的主料与成品形态；移除借图。"
+    },
+    "howtocook-1e8e59b9e7658bad65ba": {
+      "action": "remove",
+      "reason": "原封面借自《菌菇炖乳鸽》，不能准确呈现《肉饼炖蛋》的主料与成品形态；移除借图。"
+    },
+    "howtocook-68c7a9333f5e4d583952": {
+      "action": "remove",
+      "reason": "原封面借自《巴基斯坦牛肉咖喱》，不能准确呈现《腐乳肉》的主料与成品形态；移除借图。"
+    },
+    "howtocook-77632e4f909da58fd5fc": {
+      "action": "replace",
+      "reason": "逐张复核上游同一道菜的成品图，替换原借图或备料过程图；仅缩小并转为 WebP，未改动菜品主体。",
+      "cover": {
+        "sha256": "e023245405e573209a17068fd6857d1dbdac50a96d4804580f73b1f0c0104428",
+        "bytes": 52834,
+        "width": 960,
+        "height": 720,
+        "kind": "original",
+        "upstreamBlobSha": "f0b2e663ff27de9b959d5253372e65fe7d586711",
+        "sourcePageUrl": "https://github.com/Anduin2017/HowToCook/blob/2b19c9e9ee926fd925a68207a57582a338813f9c/dishes/meat_dish/%E8%8C%AD%E7%99%BD%E7%82%92%E8%82%89/%E8%8C%AD%E7%99%BD%E7%82%92%E8%82%89.md",
+        "sourceImageUrl": "https://raw.githubusercontent.com/Anduin2017/HowToCook/2b19c9e9ee926fd925a68207a57582a338813f9c/dishes/meat_dish/%E8%8C%AD%E7%99%BD%E7%82%92%E8%82%89/2.jpeg",
+        "license": "The Unlicense",
+        "licenseUrl": "https://github.com/Anduin2017/HowToCook/blob/2b19c9e9ee926fd925a68207a57582a338813f9c/LICENSE"
+      }
+    },
+    "howtocook-1157639fe340eb72374a": {
+      "action": "replace",
+      "reason": "逐张复核上游同一道菜的成品图，替换原借图或备料过程图；仅缩小并转为 WebP，未改动菜品主体。",
+      "cover": {
+        "sha256": "f4783848375a27278bbde477d04a2af7783c0e84a279d7dc0538766d021dd2c2",
+        "bytes": 70540,
+        "width": 960,
+        "height": 720,
+        "kind": "original",
+        "upstreamBlobSha": "d4d7a8ae1fc3cda14e3b8dd410ebee2d8770fe5b",
+        "sourcePageUrl": "https://github.com/Anduin2017/HowToCook/blob/2b19c9e9ee926fd925a68207a57582a338813f9c/dishes/meat_dish/%E8%8D%94%E6%9E%9D%E8%82%89/%E8%8D%94%E6%9E%9D%E8%82%89.md",
+        "sourceImageUrl": "https://raw.githubusercontent.com/Anduin2017/HowToCook/2b19c9e9ee926fd925a68207a57582a338813f9c/dishes/meat_dish/%E8%8D%94%E6%9E%9D%E8%82%89/7.jpeg",
+        "license": "The Unlicense",
+        "licenseUrl": "https://github.com/Anduin2017/HowToCook/blob/2b19c9e9ee926fd925a68207a57582a338813f9c/LICENSE"
+      }
+    },
+    "howtocook-48dd3251882e15220172": {
+      "action": "replace",
+      "reason": "逐张复核上游同一道菜的成品图，替换原借图或备料过程图；仅缩小并转为 WebP，未改动菜品主体。",
+      "cover": {
+        "sha256": "915dbba9099c08d40dd77c8d8062df82e1549df0f978d6abfb5afc9add6acb7a",
+        "bytes": 16162,
+        "width": 376,
+        "height": 335,
+        "kind": "original",
+        "upstreamBlobSha": "1b8e78d1f8e3aef2ba48fe733ddbc740fe5983e9",
+        "sourcePageUrl": "https://github.com/Anduin2017/HowToCook/blob/2b19c9e9ee926fd925a68207a57582a338813f9c/dishes/meat_dish/%E8%8D%B7%E5%85%B0%E8%B1%86%E7%82%92%E8%85%8A%E8%82%A0/%E8%8D%B7%E5%85%B0%E8%B1%86%E7%82%92%E8%85%8A%E8%82%A0.md",
+        "sourceImageUrl": "https://raw.githubusercontent.com/Anduin2017/HowToCook/2b19c9e9ee926fd925a68207a57582a338813f9c/dishes/meat_dish/%E8%8D%B7%E5%85%B0%E8%B1%86%E7%82%92%E8%85%8A%E8%82%A0/1.png",
+        "license": "The Unlicense",
+        "licenseUrl": "https://github.com/Anduin2017/HowToCook/blob/2b19c9e9ee926fd925a68207a57582a338813f9c/LICENSE"
+      }
+    },
+    "howtocook-5b50c173e66f4a3c66bd": {
+      "action": "remove",
+      "reason": "原封面借自《西红柿土豆炖牛肉》，不能准确呈现《萝卜炖羊排》的主料与成品形态；移除借图。"
+    },
+    "howtocook-aed4362137768ec13a5d": {
+      "action": "remove",
+      "reason": "原封面借自《香辣鸡爪煲》，不能准确呈现《葱烧鸡腿》的主料与成品形态；移除借图。"
+    },
+    "howtocook-c76a2b7f954a84666344": {
+      "action": "remove",
+      "reason": "原封面借自《小炒黄牛肉》，不能准确呈现《蒜苔炒肉末》的主料与成品形态；移除借图。"
+    },
+    "howtocook-4541e6c817a96916f38c": {
+      "action": "remove",
+      "reason": "原封面借自《老式锅包肉》，不能准确呈现《虎皮肘子》的主料与成品形态；移除借图。"
+    },
+    "howtocook-fba50d40b0800bbf7680": {
+      "action": "remove",
+      "reason": "原封面借自《上汤娃娃菜》，不能准确呈现《蚂蚁上树》的主料与成品形态；移除借图。"
+    },
+    "howtocook-a7f8fdd45ba301f7d3bc": {
+      "action": "replace",
+      "reason": "逐张复核上游同一道菜的成品图，替换原借图或备料过程图；仅缩小并转为 WebP，未改动菜品主体。",
+      "cover": {
+        "sha256": "797b84a7ff2ca1ee6d3dea9ad140742283bc588ed5c9b95984a2fad046fdbe77",
+        "bytes": 128088,
+        "width": 960,
+        "height": 946,
+        "kind": "original",
+        "upstreamBlobSha": "f1de026611312d40b53875f62ae6d9645fea74b5",
+        "sourcePageUrl": "https://github.com/Anduin2017/HowToCook/blob/2b19c9e9ee926fd925a68207a57582a338813f9c/dishes/meat_dish/%E8%A1%80%E6%B5%86%E9%B8%AD/%E8%A1%80%E6%B5%86%E9%B8%AD.md",
+        "sourceImageUrl": "https://raw.githubusercontent.com/Anduin2017/HowToCook/2b19c9e9ee926fd925a68207a57582a338813f9c/dishes/meat_dish/%E8%A1%80%E6%B5%86%E9%B8%AD/%E8%A1%80%E6%B5%86%E9%B8%AD%28%E5%BE%AE%E8%BE%A3%29.jpg",
+        "license": "The Unlicense",
+        "licenseUrl": "https://github.com/Anduin2017/HowToCook/blob/2b19c9e9ee926fd925a68207a57582a338813f9c/LICENSE"
+      }
+    },
+    "howtocook-24562260b0e143892007": {
+      "action": "remove",
+      "reason": "原封面借自《酱牛肉》，不能准确呈现《西红柿牛腩》的主料与成品形态；移除借图。"
+    },
+    "howtocook-ba3ce0d2e767460704d9": {
+      "action": "remove",
+      "reason": "原封面借自《老妈蹄花》，不能准确呈现《豉汁排骨》的主料与成品形态；移除借图。"
+    },
+    "howtocook-41754f839cbffa650f9a": {
+      "action": "remove",
+      "reason": "原封面借自《鱼香茄子》，不能准确呈现《辣椒炒肉》的主料与成品形态；移除借图。"
+    },
+    "howtocook-e1297263237b454ae7d2": {
+      "action": "remove",
+      "reason": "原封面借自《啤酒鸭》，不能准确呈现《香干肉丝》的主料与成品形态；移除借图。"
+    },
+    "howtocook-5f3a3719b0e0ae36028a": {
+      "action": "remove",
+      "reason": "原封面借自《新疆大盘鸡》，不能准确呈现《鱼香肉丝》的主料与成品形态；移除借图。"
+    },
+    "howtocook-1a8b110f53c68d139898": {
+      "action": "remove",
+      "reason": "原封面借自《豆豉鲮鱼油麦菜》，不能准确呈现《麻辣香锅》的主料与成品形态；移除借图。"
+    },
+    "howtocook-636808171f3d3a8b109a": {
+      "action": "remove",
+      "reason": "原封面借自《凉拌鸡丝》，不能准确呈现《黄油鸡》的主料与成品形态；移除借图。"
+    },
+    "howtocook-832e8ac5e9aae36076bd": {
+      "action": "remove",
+      "reason": "原封面借自《姜炒鸡》，不能准确呈现《黄焖鸡》的主料与成品形态；移除借图。"
+    },
+    "howtocook-292d0a9d95d851f8999b": {
+      "action": "remove",
+      "reason": "原封面借自《瘦肉土豆片》，不能准确呈现《黄瓜炒肉》的主料与成品形态；移除借图。"
+    },
+    "howtocook-2e33e0141c78c0274937": {
+      "action": "remove",
+      "reason": "原封面借自《速冻汤圆》，不能准确呈现《速冻馄饨》的主料与成品形态；移除借图。"
+    },
+    "howtocook-3c05ffd63abd9ea2e52a": {
+      "action": "replace",
+      "reason": "逐张复核上游同一道菜的成品图，替换原借图或备料过程图；仅缩小并转为 WebP，未改动菜品主体。",
+      "cover": {
+        "sha256": "72b155350bba40107d5f6f203fc40e8e67e256fb3365ca1f9ceb2941cec07c0d",
+        "bytes": 53974,
+        "width": 720,
+        "height": 960,
+        "kind": "original",
+        "upstreamBlobSha": "8dd3554a22efea1014b1d74b9b78776e86569f29",
+        "sourcePageUrl": "https://github.com/Anduin2017/HowToCook/blob/2b19c9e9ee926fd925a68207a57582a338813f9c/dishes/soup/%E5%8B%BE%E8%8A%A1%E9%A6%99%E8%8F%87%E6%B1%A4/%E5%8B%BE%E8%8A%A1%E9%A6%99%E8%8F%87%E6%B1%A4.md",
+        "sourceImageUrl": "https://raw.githubusercontent.com/Anduin2017/HowToCook/2b19c9e9ee926fd925a68207a57582a338813f9c/dishes/soup/%E5%8B%BE%E8%8A%A1%E9%A6%99%E8%8F%87%E6%B1%A4/3.jpeg",
+        "license": "The Unlicense",
+        "licenseUrl": "https://github.com/Anduin2017/HowToCook/blob/2b19c9e9ee926fd925a68207a57582a338813f9c/LICENSE"
+      }
+    },
+    "howtocook-95d7b404d04ee264e840": {
+      "action": "remove",
+      "reason": "原封面借自《雪花酥》，不能准确呈现《奶油蘑菇汤》的主料与成品形态；移除借图。"
+    },
+    "howtocook-8ad51751e8b63ae20527": {
+      "action": "remove",
+      "reason": "原封面借自《凉粉》，不能准确呈现《小米粥》的主料与成品形态；移除借图。"
+    },
+    "howtocook-1afcd350dd6d285b7dae": {
+      "action": "keep",
+      "reason": "原图是玉米排骨汤；同为玉米排骨清汤，山药配料不同，保留为参考图。"
+    },
+    "howtocook-558559ec84a0c5ab4264": {
+      "action": "remove",
+      "reason": "原封面借自《鲤鱼炖白菜》，不能准确呈现《排骨苦瓜汤》的主料与成品形态；移除借图。"
+    },
+    "howtocook-28a9b2f06a8d98ee19ac": {
+      "action": "remove",
+      "reason": "原封面借自《羊肉汤》，不能准确呈现《番茄牛肉蛋花汤》的主料与成品形态；移除借图。"
+    },
+    "howtocook-648523905ae1f6586311": {
+      "action": "remove",
+      "reason": "原封面借自《煮锅蒸米饭》，不能准确呈现《皮蛋瘦肉粥》的主料与成品形态；移除借图。"
+    },
+    "howtocook-196eab378a75e74f313a": {
+      "action": "remove",
+      "reason": "原封面借自《电饭煲三文鱼炊饭》，不能准确呈现《米粥》的主料与成品形态；移除借图。"
+    },
+    "howtocook-419a5e174596d2a4bc49": {
+      "action": "remove",
+      "reason": "原封面借自《香煎五花肉》，不能准确呈现《罗宋汤》的主料与成品形态；移除借图。"
+    },
+    "howtocook-46c174a49499dd04645d": {
+      "action": "remove",
+      "reason": "原封面借自《西红柿鸡蛋挂面》，不能准确呈现《腊八粥》的主料与成品形态；移除借图。"
+    },
+    "howtocook-414f79bd9c044d7a0e8e": {
+      "action": "remove",
+      "reason": "原封面借自《洋葱炒鸡蛋》，不能准确呈现《西红柿鸡蛋汤》的主料与成品形态；移除借图。"
+    },
+    "howtocook-238c08c29ddb1c4a5a63": {
+      "action": "remove",
+      "reason": "原封面借自《提拉米苏》，不能准确呈现《金针菇汤》的主料与成品形态；移除借图。"
+    },
+    "howtocook-825601135784ca99a880": {
+      "action": "remove",
+      "reason": "原封面借自《陈皮排骨汤》，不能准确呈现《陈皮排骨汤》的主料与成品形态；移除借图。"
+    },
+    "howtocook-502a2a1b61c01bed0c1a": {
+      "action": "remove",
+      "reason": "原封面借自《炒滑蛋》，不能准确呈现《黄瓜皮蛋汤》的主料与成品形态；移除借图。"
+    },
+    "howtocook-ceb4b4a04f909eb2286c": {
+      "action": "remove",
+      "reason": "原封面借自《菠菜炒鸡蛋》，不能准确呈现《中式馅饼》的主料与成品形态；移除借图。"
+    },
+    "howtocook-1bda94c2a47924042347": {
+      "action": "remove",
+      "reason": "原封面借自《基础牛奶面包》，不能准确呈现《利提巧卡》的主料与成品形态；移除借图。"
+    },
+    "howtocook-c5aa148342a3c9c0f744": {
+      "action": "remove",
+      "reason": "原封面借自《基础牛奶面包》，不能准确呈现《印度烤饼》的主料与成品形态；移除借图。"
+    },
+    "howtocook-2a46b4b88f72e03b7ecb": {
+      "action": "remove",
+      "reason": "原封面借自《羊排焖面》，不能准确呈现《印度焖饭》的主料与成品形态；移除借图。"
+    },
+    "howtocook-1d96b8fc5bded0b8ba23": {
+      "action": "remove",
+      "reason": "原封面借自《炒凉粉》，不能准确呈现《可乐炒饭》的主料与成品形态；移除借图。"
+    },
+    "howtocook-22a66ee1b18916b64fd3": {
+      "action": "remove",
+      "reason": "原封面借自《陕西油泼面》，不能准确呈现《咸肉菜饭》的主料与成品形态；移除借图。"
+    },
+    "howtocook-c52f0bf257da0b3c73d1": {
+      "action": "remove",
+      "reason": "原封面借自《醉排骨》，不能准确呈现《手工水饺》的主料与成品形态；移除借图。"
+    },
+    "howtocook-b80fc917b705e95bc5a3": {
+      "action": "remove",
+      "reason": "原封面借自《炒意大利面》，不能准确呈现《扬州炒饭》的主料与成品形态；移除借图。"
+    },
+    "howtocook-2eb4a45a2e3ddd82b249": {
+      "action": "remove",
+      "reason": "原封面借自《基础牛奶面包》，不能准确呈现《披萨饼皮》的主料与成品形态；移除借图。"
+    },
+    "howtocook-920d017802b3b131e2ce": {
+      "action": "remove",
+      "reason": "原封面借自《鲣鱼海苔玉米饭》，不能准确呈现《汤面》的主料与成品形态；移除借图。"
+    },
+    "howtocook-1d22844abab0cf6408d7": {
+      "action": "remove",
+      "reason": "原封面借自《茄子肉煎饼》，不能准确呈现《滕州菜煎饼》的主料与成品形态；移除借图。"
+    },
+    "howtocook-9a222b1883cad0aa1aa0": {
+      "action": "remove",
+      "reason": "原封面借自《西葫芦炒鸡蛋》，不能准确呈现《炒年糕》的主料与成品形态；移除借图。"
+    },
+    "howtocook-581d80efc12c2ca81466": {
+      "action": "remove",
+      "reason": "原封面借自《炒方便面》，不能准确呈现《炒河粉》的主料与成品形态；移除借图。"
+    },
+    "howtocook-50b2a23c6648d539600c": {
+      "action": "remove",
+      "reason": "原封面借自《宫保鸡丁》，不能准确呈现《炒馍》的主料与成品形态；移除借图。"
+    },
+    "howtocook-d916492c172d5d9ae5be": {
+      "action": "remove",
+      "reason": "原封面借自《空气炸锅照烧鸡饭》，不能准确呈现《炸酱面》的主料与成品形态；移除借图。"
+    },
+    "howtocook-d97323116a8251331cac": {
+      "action": "remove",
+      "reason": "原封面借自《日式咖喱饭》，不能准确呈现《热干面》的主料与成品形态；移除借图。"
+    },
+    "howtocook-73a12a8bea38553f0a67": {
+      "action": "remove",
+      "reason": "原封面借自《芝麻烧饼》，不能准确呈现《照烧鸡腿饭》的主料与成品形态；移除借图。"
+    },
+    "howtocook-40e20d1b357540396dcb": {
+      "action": "remove",
+      "reason": "原封面借自《意式肉酱面》，不能准确呈现《猪油拌饭》的主料与成品形态；移除借图。"
+    },
+    "howtocook-874ab7d67d2ecf47b43e": {
+      "action": "remove",
+      "reason": "原封面借自《日式肥牛丼饭》，不能准确呈现《红芸豆拌饭》的主料与成品形态；移除借图。"
+    },
+    "howtocook-617957ecce2fc9815248": {
+      "action": "remove",
+      "reason": "原封面借自《酱拌荞麦面》，不能准确呈现《老干妈拌面》的主料与成品形态；移除借图。"
+    },
+    "howtocook-580927b6ab1e41c2e4ef": {
+      "action": "remove",
+      "reason": "原封面借自《煮锅蒸米饭》，不能准确呈现《肉蛋盖饭》的主料与成品形态；移除借图。"
+    },
+    "howtocook-6aa1fa07f6c9c635e5b4": {
+      "action": "remove",
+      "reason": "原封面借自《西红柿鸡蛋挂面》，不能准确呈现《葱油拌面》的主料与成品形态；移除借图。"
+    },
+    "howtocook-06a218a8627c179731f5": {
+      "action": "keep",
+      "reason": "原图是河南蒸面条；同为豆角肉丝蒸面，地区做法略有差异，保留为参考图。"
+    },
+    "howtocook-d36c1927c74c70486163": {
+      "action": "remove",
+      "reason": "原封面借自《老友猪肉粉》，不能准确呈现《蛋包饭》的主料与成品形态；移除借图。"
+    },
+    "howtocook-0e9866e5643e6ccd3132": {
+      "action": "remove",
+      "reason": "原封面借自《炒凉粉》，不能准确呈现《蛋炒饭》的主料与成品形态；移除借图。"
+    },
+    "howtocook-031354976c677d080000": {
+      "action": "remove",
+      "reason": "原封面借自《陕西油泼面》，不能准确呈现《螺蛳粉》的主料与成品形态；移除借图。"
+    },
+    "howtocook-ff9dea4298f08dcdd49b": {
+      "action": "remove",
+      "reason": "原封面借自《炒意大利面》，不能准确呈现《豆角焖面》的主料与成品形态；移除借图。"
+    },
+    "howtocook-ecbf1bf555cf90edacd3": {
+      "action": "remove",
+      "reason": "原封面借自《鲣鱼海苔玉米饭》，不能准确呈现《酸辣蕨根粉》的主料与成品形态；移除借图。"
+    },
+    "howtocook-4de3928e6efae0e0e259": {
+      "action": "remove",
+      "reason": "原封面借自《日式咖喱饭》，不能准确呈现《醪糟小汤圆》的主料与成品形态；移除借图。"
+    },
+    "howtocook-b8edc500b99e3e9c6f1a": {
+      "action": "remove",
+      "reason": "原封面借自《阳朔啤酒鱼》，不能准确呈现《韭菜盒子》的主料与成品形态；移除借图。"
+    },
+    "howtocook-8deffad10bd66074b854": {
+      "action": "remove",
+      "reason": "原封面借自《蚝油三鲜菇》，不能准确呈现《鲜肉烧卖》的主料与成品形态；移除借图。"
+    },
+    "howtocook-343910aaf7673e11a70f": {
+      "action": "remove",
+      "reason": "原封面借自《空气炸锅照烧鸡饭》，不能准确呈现《鹰嘴豆炸饼》的主料与成品形态；移除借图。"
+    },
+    "howtocook-e5f0719e227199628725": {
+      "action": "remove",
+      "reason": "原封面借自《韩式拌饭》，不能准确呈现《麻油拌面》的主料与成品形态；移除借图。"
+    },
+    "howtocook-163edd1cb5ff4c8bf1d5": {
+      "action": "remove",
+      "reason": "原封面借自《日式肥牛丼饭》，不能准确呈现《麻辣减脂荞麦面》的主料与成品形态；移除借图。"
+    },
+    "howtocook-9fa6e69063175a410436": {
+      "action": "remove",
+      "reason": "原封面借自《醉排骨》，不能准确呈现《凉拌油麦菜》的主料与成品形态；移除借图。"
+    },
+    "howtocook-8d02690da7199d2d0316": {
+      "action": "remove",
+      "reason": "原封面借自《乾隆白菜》，不能准确呈现《凉拌豆腐》的主料与成品形态；移除借图。"
+    },
+    "howtocook-a4fb0751e17043624cf8": {
+      "action": "remove",
+      "reason": "原封面借自《凉拌木耳》，不能准确呈现《凉拌金针菇》的主料与成品形态；移除借图。"
+    },
+    "howtocook-02e515d6befb2d792085": {
+      "action": "remove",
+      "reason": "原封面借自《小炒藕丁》，不能准确呈现《印度土豆花菜》的主料与成品形态；移除借图。"
+    },
+    "howtocook-1e38411f713685dd4b37": {
+      "action": "remove",
+      "reason": "原封面借自《包菜炒鸡蛋粉丝》，不能准确呈现《印度葫芦丸子》的主料与成品形态；移除借图。"
+    },
+    "howtocook-5097e0e1af4e20966072": {
+      "action": "remove",
+      "reason": "原封面借自《香煎翘嘴鱼》，不能准确呈现《家常日本豆腐》的主料与成品形态；移除借图。"
+    },
+    "howtocook-cf8cf91d51ff6faeb57a": {
+      "action": "replace",
+      "reason": "逐张复核上游同一道菜的成品图，替换原借图或备料过程图；仅缩小并转为 WebP，未改动菜品主体。",
+      "cover": {
+        "sha256": "4cfd197a8a068e9061dee16911c07aabccadeae937bd4538e1668193bff1ec54",
+        "bytes": 47504,
+        "width": 960,
+        "height": 720,
+        "kind": "original",
+        "upstreamBlobSha": "f248f78557c4a9b54c5a26648f324ce06ca94396",
+        "sourcePageUrl": "https://github.com/Anduin2017/HowToCook/blob/2b19c9e9ee926fd925a68207a57582a338813f9c/dishes/vegetable_dish/%E6%89%8B%E6%92%95%E5%8C%85%E8%8F%9C/%E6%89%8B%E6%92%95%E5%8C%85%E8%8F%9C.md",
+        "sourceImageUrl": "https://raw.githubusercontent.com/Anduin2017/HowToCook/2b19c9e9ee926fd925a68207a57582a338813f9c/dishes/vegetable_dish/%E6%89%8B%E6%92%95%E5%8C%85%E8%8F%9C/4.jpeg",
+        "license": "The Unlicense",
+        "licenseUrl": "https://github.com/Anduin2017/HowToCook/blob/2b19c9e9ee926fd925a68207a57582a338813f9c/LICENSE"
+      }
+    },
+    "howtocook-4378c05c5f7be12d2628": {
+      "action": "replace",
+      "reason": "逐张复核上游同一道菜的成品图，替换原借图或备料过程图；仅缩小并转为 WebP，未改动菜品主体。",
+      "cover": {
+        "sha256": "c44b9747275a2ea527187539a8c1f44ea40b76cbdf42179547b128ce32fb4691",
+        "bytes": 65176,
+        "width": 960,
+        "height": 720,
+        "kind": "original",
+        "upstreamBlobSha": "5005f7ce13577f4b3b3d43bb559413fa0f7839bb",
+        "sourcePageUrl": "https://github.com/Anduin2017/HowToCook/blob/2b19c9e9ee926fd925a68207a57582a338813f9c/dishes/vegetable_dish/%E6%8B%94%E4%B8%9D%E5%9C%9F%E8%B1%86/%E6%8B%94%E4%B8%9D%E5%9C%9F%E8%B1%86.md",
+        "sourceImageUrl": "https://raw.githubusercontent.com/Anduin2017/HowToCook/2b19c9e9ee926fd925a68207a57582a338813f9c/dishes/vegetable_dish/%E6%8B%94%E4%B8%9D%E5%9C%9F%E8%B1%86/4.jpeg",
+        "license": "The Unlicense",
+        "licenseUrl": "https://github.com/Anduin2017/HowToCook/blob/2b19c9e9ee926fd925a68207a57582a338813f9c/LICENSE"
+      }
+    },
+    "howtocook-b9ce9dd134001c2338a9": {
+      "action": "replace",
+      "reason": "复核主料与成品形态后，使用《椒盐玉米》的同类成品照；配料或具体做法不同，标明仅供参考。",
+      "cover": {
+        "sha256": "e67a8c8581bba97ab9d75c9d55f5bd934b660782df71748c405abede47f3468a",
+        "bytes": 24098,
+        "width": 960,
+        "height": 640,
+        "sourcePageUrl": "https://github.com/Anduin2017/HowToCook/blob/2b19c9e9ee926fd925a68207a57582a338813f9c/dishes/vegetable_dish/椒盐玉米/椒盐玉米.md",
+        "sourceImageUrl": "https://github.com/Anduin2017/HowToCook/raw/2b19c9e9ee926fd925a68207a57582a338813f9c/dishes/vegetable_dish/椒盐玉米/椒盐玉米.jpeg",
+        "license": "The Unlicense",
+        "licenseUrl": "https://github.com/Anduin2017/HowToCook/blob/2b19c9e9ee926fd925a68207a57582a338813f9c/LICENSE",
+        "kind": "substituted"
+      }
+    },
+    "howtocook-946a3f88bdeca579998d": {
+      "action": "remove",
+      "reason": "原封面借自《油焖大虾》，不能准确呈现《水油焖蔬菜》的主料与成品形态；移除借图。"
+    },
+    "howtocook-bf3ccf273f0586378ba3": {
+      "action": "remove",
+      "reason": "原封面借自《醉排骨》，不能准确呈现《油醋爆蛋》的主料与成品形态；移除借图。"
+    },
+    "howtocook-5a5cd50a4aaddb6183c1": {
+      "action": "remove",
+      "reason": "原封面借自《虎皮青椒》，不能准确呈现《清炒花菜》的主料与成品形态；移除借图。"
+    },
+    "howtocook-d1ede91e3649f27a3d67": {
+      "action": "remove",
+      "reason": "原封面借自《鸡蛋羹》，不能准确呈现《清蒸南瓜》的主料与成品形态；移除借图。"
+    },
+    "howtocook-51a4793a1e08410d5be5": {
+      "action": "remove",
+      "reason": "原封面借自《小龙虾》，不能准确呈现《炒茄子》的主料与成品形态；移除借图。"
+    },
+    "howtocook-8b9856cd204710449a23": {
+      "action": "replace",
+      "reason": "复核主料与成品形态后，使用《蒜蓉空心菜》的同类成品照；配料或具体做法不同，标明仅供参考。",
+      "cover": {
+        "sha256": "ff0da07f950edcf8eb9d79f28171ba7641b4288666c90870aaf0a728cf7662ad",
+        "bytes": 75500,
+        "width": 720,
+        "height": 960,
+        "sourcePageUrl": "https://github.com/Anduin2017/HowToCook/blob/2b19c9e9ee926fd925a68207a57582a338813f9c/dishes/vegetable_dish/蒜蓉空心菜/蒜蓉空心菜.md",
+        "sourceImageUrl": "https://github.com/Anduin2017/HowToCook/raw/2b19c9e9ee926fd925a68207a57582a338813f9c/dishes/vegetable_dish/蒜蓉空心菜/1.JPG",
+        "license": "The Unlicense",
+        "licenseUrl": "https://github.com/Anduin2017/HowToCook/blob/2b19c9e9ee926fd925a68207a57582a338813f9c/LICENSE",
+        "kind": "substituted"
+      }
+    },
+    "howtocook-26f2457ef559816ffd6f": {
+      "action": "remove",
+      "reason": "原封面借自《凉拌莴笋》，不能准确呈现《皮蛋豆腐》的主料与成品形态；移除借图。"
+    },
+    "howtocook-d3e98d659448e21e4ac7": {
+      "action": "remove",
+      "reason": "原封面借自《蒜蓉空心菜》，不能准确呈现《素炒豆角》的主料与成品形态；移除借图。"
+    },
+    "howtocook-afde2c6a34186f7ec5b2": {
+      "action": "replace",
+      "reason": "逐张复核上游同一道菜的成品图，替换原借图或备料过程图；仅缩小并转为 WebP，未改动菜品主体。",
+      "cover": {
+        "sha256": "86fab5ca9ec8d67522fefa07e13b024c579e62e62e2e0e09900d2db7928b8d48",
+        "bytes": 32866,
+        "width": 960,
+        "height": 720,
+        "kind": "original",
+        "upstreamBlobSha": "ac444465735293c6356119a99333effb53309622",
+        "sourcePageUrl": "https://github.com/Anduin2017/HowToCook/blob/2b19c9e9ee926fd925a68207a57582a338813f9c/dishes/vegetable_dish/%E7%BA%A2%E7%83%A7%E5%86%AC%E7%93%9C/%E7%BA%A2%E7%83%A7%E5%86%AC%E7%93%9C.md",
+        "sourceImageUrl": "https://raw.githubusercontent.com/Anduin2017/HowToCook/2b19c9e9ee926fd925a68207a57582a338813f9c/dishes/vegetable_dish/%E7%BA%A2%E7%83%A7%E5%86%AC%E7%93%9C/2.jpeg",
+        "license": "The Unlicense",
+        "licenseUrl": "https://github.com/Anduin2017/HowToCook/blob/2b19c9e9ee926fd925a68207a57582a338813f9c/LICENSE"
+      }
+    },
+    "howtocook-5fa782ab3b20344dc7c1": {
+      "action": "remove",
+      "reason": "原封面借自《凉拌鸡丝》，不能准确呈现《红烧茄子》的主料与成品形态；移除借图。"
+    },
+    "howtocook-9990afe9babe2653b10d": {
+      "action": "remove",
+      "reason": "原封面借自《鳊鱼炖豆腐》，不能准确呈现《脆皮豆腐》的主料与成品形态；移除借图。"
+    },
+    "howtocook-47b0d27fb06bcb51c035": {
+      "action": "replace",
+      "reason": "逐张复核上游同一道菜的成品图，替换原借图或备料过程图；仅缩小并转为 WebP，未改动菜品主体。",
+      "cover": {
+        "sha256": "cbf64bf3bdf449901b002d30e954b5c71cbcfcd3647ef99922125c144e1cf7df",
+        "bytes": 62540,
+        "width": 960,
+        "height": 668,
+        "kind": "original",
+        "upstreamBlobSha": "9a0a41e8ab0e050ed2608ab631fb1b86f3fe52cd",
+        "sourcePageUrl": "https://github.com/Anduin2017/HowToCook/blob/2b19c9e9ee926fd925a68207a57582a338813f9c/dishes/vegetable_dish/%E8%8A%B9%E8%8F%9C%E6%8B%8C%E8%8C%B6%E6%A0%91%E8%8F%87/%E8%8A%B9%E8%8F%9C%E6%8B%8C%E8%8C%B6%E6%A0%91%E8%8F%87.md",
+        "sourceImageUrl": "https://raw.githubusercontent.com/Anduin2017/HowToCook/2b19c9e9ee926fd925a68207a57582a338813f9c/dishes/vegetable_dish/%E8%8A%B9%E8%8F%9C%E6%8B%8C%E8%8C%B6%E6%A0%91%E8%8F%87/%E8%8A%B9%E8%8F%9C%E6%8B%8C%E8%8C%B6%E6%A0%91%E8%8F%87.jpg",
+        "license": "The Unlicense",
+        "licenseUrl": "https://github.com/Anduin2017/HowToCook/blob/2b19c9e9ee926fd925a68207a57582a338813f9c/LICENSE"
+      }
+    },
+    "howtocook-150f56720d904551e82a": {
+      "action": "remove",
+      "reason": "原封面借自《干锅花菜》，不能准确呈现《茄子炖土豆》的主料与成品形态；移除借图。"
+    },
+    "howtocook-a294a849e9a5f7fefdf9": {
+      "action": "replace",
+      "reason": "逐张复核上游同一道菜的成品图，替换原借图或备料过程图；仅缩小并转为 WebP，未改动菜品主体。",
+      "cover": {
+        "sha256": "8ee0e47aa530efc92f0f1d40015ab8fd4e75fa5f9eed7a859a5a03047ee638ee",
+        "bytes": 87670,
+        "width": 960,
+        "height": 720,
+        "kind": "original",
+        "upstreamBlobSha": "9c5cdc0c6a4cc2597f13ef4ffe674a1c78cdf8b0",
+        "sourcePageUrl": "https://github.com/Anduin2017/HowToCook/blob/2b19c9e9ee926fd925a68207a57582a338813f9c/dishes/vegetable_dish/%E8%8E%B4%E7%AC%8B%E5%8F%B6%E7%85%8E%E9%A5%BC/%E8%8E%B4%E7%AC%8B%E5%8F%B6%E7%85%8E%E9%A5%BC.md",
+        "sourceImageUrl": "https://raw.githubusercontent.com/Anduin2017/HowToCook/2b19c9e9ee926fd925a68207a57582a338813f9c/dishes/vegetable_dish/%E8%8E%B4%E7%AC%8B%E5%8F%B6%E7%85%8E%E9%A5%BC/3.jpeg",
+        "license": "The Unlicense",
+        "licenseUrl": "https://github.com/Anduin2017/HowToCook/blob/2b19c9e9ee926fd925a68207a57582a338813f9c/LICENSE"
+      }
+    },
+    "howtocook-54b72d4f7cf820fb766d": {
+      "action": "remove",
+      "reason": "原封面借自《茄子肉煎饼》，不能准确呈现《葱煎豆腐》的主料与成品形态；移除借图。"
+    },
+    "howtocook-35b2e221aa1e478b04ea": {
+      "action": "replace",
+      "reason": "逐张复核上游同一道菜的成品图，替换原借图或备料过程图；仅缩小并转为 WebP，未改动菜品主体。",
+      "cover": {
+        "sha256": "6dab370d467a8550f61abde00f19d6c267db0d50f6599cdf29b7b1f0764353ca",
+        "bytes": 43560,
+        "width": 800,
+        "height": 516,
+        "kind": "original",
+        "upstreamBlobSha": "8651c6a518dc77a369b8e02e7c9adee035c12d3a",
+        "sourcePageUrl": "https://github.com/Anduin2017/HowToCook/blob/2b19c9e9ee926fd925a68207a57582a338813f9c/dishes/vegetable_dish/%E8%92%9C%E8%93%89%E7%82%92%E8%8A%B9%E8%8F%9C/%E8%92%9C%E8%93%89%E7%82%92%E8%8A%B9%E8%8F%9C.md",
+        "sourceImageUrl": "https://raw.githubusercontent.com/Anduin2017/HowToCook/2b19c9e9ee926fd925a68207a57582a338813f9c/dishes/vegetable_dish/%E8%92%9C%E8%93%89%E7%82%92%E8%8A%B9%E8%8F%9C/%E8%92%9C%E8%93%89%E7%82%92%E8%8A%B9%E8%8F%9C.jpg",
+        "license": "The Unlicense",
+        "licenseUrl": "https://github.com/Anduin2017/HowToCook/blob/2b19c9e9ee926fd925a68207a57582a338813f9c/LICENSE"
+      }
+    },
+    "howtocook-92f286f58f84ff0a18f9": {
+      "action": "remove",
+      "reason": "原封面借自《蚝油三鲜菇》，不能准确呈现《蒜蓉西兰花》的主料与成品形态；移除借图。"
+    },
+    "howtocook-5086f352be3eacfde36b": {
+      "action": "remove",
+      "reason": "原封面借自《西红柿豆腐汤羹》，不能准确呈现《蒲烧茄子》的主料与成品形态；移除借图。"
+    },
+    "howtocook-9aafc1145d54a0f4c9d4": {
+      "action": "remove",
+      "reason": "原封面借自《柱候牛腩》，不能准确呈现《蚝油生菜》的主料与成品形态；移除借图。"
+    },
+    "howtocook-2130948c0fd2440433b5": {
+      "action": "remove",
+      "reason": "原封面借自《炒滑蛋》，不能准确呈现《西红柿炒鸡蛋》的主料与成品形态；移除借图。"
+    },
+    "howtocook-9190d44233e7274588ce": {
+      "action": "remove",
+      "reason": "原封面借自《虎皮青椒》，不能准确呈现《酸辣土豆丝》的主料与成品形态；移除借图。"
+    },
+    "howtocook-2e8d27218fc69e2c9124": {
+      "action": "remove",
+      "reason": "原封面借自《蒜香黄油虾》，不能准确呈现《金针菇日本豆腐煲》的主料与成品形态；移除借图。"
+    },
+    "howtocook-29dc63b5178d672572ec": {
+      "action": "remove",
+      "reason": "原封面借自《黄油煎虾》，不能准确呈现《金钱蛋》的主料与成品形态；移除借图。"
+    },
+    "howtocook-598880791fadadb7598a": {
+      "action": "remove",
+      "reason": "原封面借自《地三鲜》，不能准确呈现《雷椒皮蛋》的主料与成品形态；移除借图。"
+    },
+    "howtocook-cf76d9b00d1d4cfdf909": {
+      "action": "remove",
+      "reason": "原封面借自《菠菜炒鸡蛋》，不能准确呈现《韭菜炒蛋》的主料与成品形态；移除借图。"
+    },
+    "howtocook-708eac43f72977505526": {
+      "action": "remove",
+      "reason": "原封面借自《西葫芦炒鸡蛋》，不能准确呈现《鸡蛋火腿炒黄瓜》的主料与成品形态；移除借图。"
+    },
+    "howtocook-9dff14f76013f6e0ed8c": {
+      "action": "keep",
+      "reason": "原图是鸡蛋羹；同为蒸蛋成品，蒸制工具不同，保留为参考图。"
+    },
+    "howtocook-a1b5c702a812985866ed": {
+      "action": "remove",
+      "reason": "原封面借自《提拉米苏》，不能准确呈现《鸡蛋花》的主料与成品形态；移除借图。"
+    },
+    "howtocook-814045db735286f009a7": {
+      "action": "keep",
+      "reason": "核对为同名陈皮排骨汤的两杯成品，不是跨菜品借图；保留参考标识。"
+    },
+    "howtocook-547705f2774cf0ed53bc": {
+      "action": "replace",
+      "reason": "逐张复核上游同一道菜的成品图，替换原借图或备料过程图；仅缩小并转为 WebP，未改动菜品主体。",
+      "cover": {
+        "sha256": "b4620dcfe7cda5241f61a90fb13bac183d2ed86df0974e94e8e9b7158636d20d",
+        "bytes": 93108,
+        "width": 720,
+        "height": 960,
+        "kind": "original",
+        "upstreamBlobSha": "fca4aa841113924eeba47334179054f7378abce2",
+        "sourcePageUrl": "https://github.com/Anduin2017/HowToCook/blob/2b19c9e9ee926fd925a68207a57582a338813f9c/dishes/aquatic/%E6%B8%85%E8%92%B8%E9%B2%88%E9%B1%BC/%E6%B8%85%E8%92%B8%E9%B2%88%E9%B1%BC.md",
+        "sourceImageUrl": "https://raw.githubusercontent.com/Anduin2017/HowToCook/2b19c9e9ee926fd925a68207a57582a338813f9c/dishes/aquatic/%E6%B8%85%E8%92%B8%E9%B2%88%E9%B1%BC/%E6%B8%85%E8%92%B8%E9%B2%88%E9%B1%BC.jpg",
+        "license": "The Unlicense",
+        "licenseUrl": "https://github.com/Anduin2017/HowToCook/blob/2b19c9e9ee926fd925a68207a57582a338813f9c/LICENSE"
+      }
+    },
+    "howtocook-9c598d5ae0973cc37cbf": {
+      "action": "replace",
+      "reason": "逐张复核上游同一道菜的成品图，替换原借图或备料过程图；仅缩小并转为 WebP，未改动菜品主体。",
+      "cover": {
+        "sha256": "cb5ce99845d1d5ea4b97692b8b8bdbcaac63f4714f4ff61a30a3d0cd2b779a04",
+        "bytes": 68896,
+        "width": 960,
+        "height": 720,
+        "kind": "original",
+        "upstreamBlobSha": "b8bc5851b887f2316ae72ea1692ef7f743c60059",
+        "sourcePageUrl": "https://github.com/Anduin2017/HowToCook/blob/2b19c9e9ee926fd925a68207a57582a338813f9c/dishes/aquatic/%E8%9B%8F%E6%8A%B1%E8%9B%8B/%E8%9B%8F%E6%8A%B1%E8%9B%8B.md",
+        "sourceImageUrl": "https://raw.githubusercontent.com/Anduin2017/HowToCook/2b19c9e9ee926fd925a68207a57582a338813f9c/dishes/aquatic/%E8%9B%8F%E6%8A%B1%E8%9B%8B/3.jpeg",
+        "license": "The Unlicense",
+        "licenseUrl": "https://github.com/Anduin2017/HowToCook/blob/2b19c9e9ee926fd925a68207a57582a338813f9c/LICENSE"
+      }
+    },
+    "howtocook-dacc0e7e690a15f03282": {
+      "action": "replace",
+      "reason": "逐张复核上游同一道菜的成品图，替换原借图或备料过程图；仅缩小并转为 WebP，未改动菜品主体。",
+      "cover": {
+        "sha256": "dbe300ea27fe6bcb63d1912da118fc1581d741ac1e12044c42737d1f983d5f22",
+        "bytes": 62576,
+        "width": 960,
+        "height": 720,
+        "kind": "original",
+        "upstreamBlobSha": "b8f8355a328a2e58a6e1f647102ca1c95518b2df",
+        "sourcePageUrl": "https://github.com/Anduin2017/HowToCook/blob/2b19c9e9ee926fd925a68207a57582a338813f9c/dishes/meat_dish/%E5%9B%9E%E9%94%85%E8%82%89/%E5%9B%9E%E9%94%85%E8%82%89.md",
+        "sourceImageUrl": "https://raw.githubusercontent.com/Anduin2017/HowToCook/2b19c9e9ee926fd925a68207a57582a338813f9c/dishes/meat_dish/%E5%9B%9E%E9%94%85%E8%82%89/2.jpeg",
+        "license": "The Unlicense",
+        "licenseUrl": "https://github.com/Anduin2017/HowToCook/blob/2b19c9e9ee926fd925a68207a57582a338813f9c/LICENSE"
+      }
+    },
+    "howtocook-1473dff6924a687cdac0": {
+      "action": "replace",
+      "reason": "逐张复核上游同一道菜的成品图，替换原借图或备料过程图；仅缩小并转为 WebP，未改动菜品主体。",
+      "cover": {
+        "sha256": "9e74dd30b7f85f70a18c82b6ddf54742f1cfed24de4370b0ca1d46141b677a58",
+        "bytes": 102086,
+        "width": 960,
+        "height": 720,
+        "kind": "original",
+        "upstreamBlobSha": "e558bcb5121ce9d876a0e600fffc964dcc05e91d",
+        "sourcePageUrl": "https://github.com/Anduin2017/HowToCook/blob/2b19c9e9ee926fd925a68207a57582a338813f9c/dishes/meat_dish/%E6%9F%B1%E5%80%99%E7%89%9B%E8%85%A9/%E6%9F%B1%E5%80%99%E7%89%9B%E8%85%A9.md",
+        "sourceImageUrl": "https://raw.githubusercontent.com/Anduin2017/HowToCook/2b19c9e9ee926fd925a68207a57582a338813f9c/dishes/meat_dish/%E6%9F%B1%E5%80%99%E7%89%9B%E8%85%A9/%E6%9F%B1%E5%80%99%E7%89%9B%E8%85%A9.jpeg",
+        "license": "The Unlicense",
+        "licenseUrl": "https://github.com/Anduin2017/HowToCook/blob/2b19c9e9ee926fd925a68207a57582a338813f9c/LICENSE"
+      }
+    },
+    "howtocook-f3bcbbe6cbfb35055d94": {
+      "action": "replace",
+      "reason": "逐张复核上游同一道菜的成品图，替换原借图或备料过程图；仅缩小并转为 WebP，未改动菜品主体。",
+      "cover": {
+        "sha256": "df79d562fa779decc9728893f258d0b3ccdca6c5f50d0f8cde5941102fe0f48e",
+        "bytes": 41952,
+        "width": 756,
+        "height": 600,
+        "kind": "original",
+        "upstreamBlobSha": "d9c5069b5d2921c66ab6a9ce7a24ea333216fceb",
+        "sourcePageUrl": "https://github.com/Anduin2017/HowToCook/blob/2b19c9e9ee926fd925a68207a57582a338813f9c/dishes/meat_dish/%E9%9D%92%E6%A4%92%E9%85%BF/%E9%9D%92%E6%A4%92%E9%85%BF.md",
+        "sourceImageUrl": "https://raw.githubusercontent.com/Anduin2017/HowToCook/2b19c9e9ee926fd925a68207a57582a338813f9c/dishes/meat_dish/%E9%9D%92%E6%A4%92%E9%85%BF/%E6%88%90%E5%93%81.jpeg",
+        "license": "The Unlicense",
+        "licenseUrl": "https://github.com/Anduin2017/HowToCook/blob/2b19c9e9ee926fd925a68207a57582a338813f9c/LICENSE"
+      }
+    },
+    "howtocook-6a4a7145b1369b5d2ff5": {
+      "action": "replace",
+      "reason": "逐张复核上游同一道菜的成品图，替换原借图或备料过程图；仅缩小并转为 WebP，未改动菜品主体。",
+      "cover": {
+        "sha256": "e490ddca2060f9f0912bfff17b7524c6d944a36200cec48e438f3e59627bb715",
+        "bytes": 155120,
+        "width": 960,
+        "height": 720,
+        "kind": "original",
+        "upstreamBlobSha": "e8114b0635799d913d3a9f502dadd088c242dc83",
+        "sourcePageUrl": "https://github.com/Anduin2017/HowToCook/blob/2b19c9e9ee926fd925a68207a57582a338813f9c/dishes/meat_dish/%E6%B9%98%E7%A5%81%E7%B1%B3%E5%A4%AB%E9%B8%AD/%E6%B9%98%E7%A5%81%E7%B1%B3%E5%A4%AB%E9%B8%AD.md",
+        "sourceImageUrl": "https://raw.githubusercontent.com/Anduin2017/HowToCook/2b19c9e9ee926fd925a68207a57582a338813f9c/dishes/meat_dish/%E6%B9%98%E7%A5%81%E7%B1%B3%E5%A4%AB%E9%B8%AD/%E6%B9%98%E7%A5%81%E7%B1%B3%E5%A4%AB%E9%B8%AD.jpg",
+        "license": "The Unlicense",
+        "licenseUrl": "https://github.com/Anduin2017/HowToCook/blob/2b19c9e9ee926fd925a68207a57582a338813f9c/LICENSE"
+      }
+    },
+    "howtocook-a4b59bbb98523c61307c": {
+      "action": "replace",
+      "reason": "逐张复核上游同一道菜的成品图，替换原借图或备料过程图；仅缩小并转为 WebP，未改动菜品主体。",
+      "cover": {
+        "sha256": "8a0174f56956b04eba53c87667c5d5d28b238a5a6999683982b338e2623a22f0",
+        "bytes": 54254,
+        "width": 720,
+        "height": 960,
+        "kind": "original",
+        "upstreamBlobSha": "d03b76c6d62424abf87abae9d262445b7901cf13",
+        "sourcePageUrl": "https://github.com/Anduin2017/HowToCook/blob/2b19c9e9ee926fd925a68207a57582a338813f9c/dishes/vegetable_dish/%E8%9A%9D%E6%B2%B9%E4%B8%89%E9%B2%9C%E8%8F%87/%E8%9A%9D%E6%B2%B9%E4%B8%89%E9%B2%9C%E8%8F%87.md",
+        "sourceImageUrl": "https://raw.githubusercontent.com/Anduin2017/HowToCook/2b19c9e9ee926fd925a68207a57582a338813f9c/dishes/vegetable_dish/%E8%9A%9D%E6%B2%B9%E4%B8%89%E9%B2%9C%E8%8F%87/2.jpeg",
+        "license": "The Unlicense",
+        "licenseUrl": "https://github.com/Anduin2017/HowToCook/blob/2b19c9e9ee926fd925a68207a57582a338813f9c/LICENSE"
+      }
+    },
+    "howtocook-e9ddad293a47544bcf8c": {
+      "action": "replace",
+      "reason": "逐张复核上游同一道菜的成品图，替换原借图或备料过程图；仅缩小并转为 WebP，未改动菜品主体。",
+      "cover": {
+        "sha256": "d3d37e1c325358001f405b3d92d904c21127f3e9c13d649b060f51861e6db23d",
+        "bytes": 80916,
+        "width": 960,
+        "height": 720,
+        "kind": "original",
+        "upstreamBlobSha": "2c43b23cc768bceb167bb223cf28ce84d44ad24a",
+        "sourcePageUrl": "https://github.com/Anduin2017/HowToCook/blob/2b19c9e9ee926fd925a68207a57582a338813f9c/dishes/staple/%E8%8C%84%E5%AD%90%E8%82%89%E7%85%8E%E9%A5%BC/%E8%8C%84%E5%AD%90%E8%82%89%E7%85%8E%E9%A5%BC.md",
+        "sourceImageUrl": "https://raw.githubusercontent.com/Anduin2017/HowToCook/2b19c9e9ee926fd925a68207a57582a338813f9c/dishes/staple/%E8%8C%84%E5%AD%90%E8%82%89%E7%85%8E%E9%A5%BC/%E8%8C%84%E5%AD%90%E8%82%89%E7%85%8E%E9%A5%BC.jpg",
+        "license": "The Unlicense",
+        "licenseUrl": "https://github.com/Anduin2017/HowToCook/blob/2b19c9e9ee926fd925a68207a57582a338813f9c/LICENSE"
+      }
+    },
+    "howtocook-4b816847856fadc6a2e7": {
+      "action": "replace",
+      "reason": "复核主料与成品形态后，使用《微波炉鸡蛋羹》的同类成品照；配料或具体做法不同，标明仅供参考。",
+      "cover": {
+        "sha256": "d6185553f6c0818681cf564fb1f67cd70637ab67ae99b2864212e3b060df8839",
+        "bytes": 82652,
+        "width": 960,
+        "height": 720,
+        "sourcePageUrl": "https://github.com/Anduin2017/HowToCook/blob/2b19c9e9ee926fd925a68207a57582a338813f9c/dishes/vegetable_dish/鸡蛋羹/微波炉鸡蛋羹.md",
+        "sourceImageUrl": "https://github.com/Anduin2017/HowToCook/raw/2b19c9e9ee926fd925a68207a57582a338813f9c/dishes/vegetable_dish/鸡蛋羹/微波炉鸡蛋羹.jpg",
+        "license": "The Unlicense",
+        "licenseUrl": "https://github.com/Anduin2017/HowToCook/blob/2b19c9e9ee926fd925a68207a57582a338813f9c/LICENSE",
+        "kind": "substituted"
+      }
+    }
+  }
+}

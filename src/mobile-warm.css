@@ -1,0 +1,106 @@
+/* Warm surfaces, charcoal type, orange actions; green is reserved for food/stock cues. */
+:root{--paper:#faf6f0;--white:#fffdfa;--ink:#302d2a;--muted:#726b65;--line:#e9dfd4;--orange:#c65316;--orange-dark:#a53e0c;--soft-orange:#fff0e2;--green:#567c57;--soft-green:#edf3e8;color:var(--ink);background:var(--paper)}
+body{color:var(--ink);background:var(--paper)}
+button,input,select,textarea{-webkit-tap-highlight-color:transparent}
+button:focus-visible,a:focus-visible{outline:3px solid #dc641f;outline-offset:3px}
+.demo-bar{background:#efe5d8;color:#61564d}.demo-controls select{color:#463d35;background:#fffaf3}
+.live-dot,.status-dot{background:#60875a}.sidebar{background:#f2e8dc;border-color:var(--line)}
+.brand strong,.breadcrumbs>span,.hero h1,.section-heading h2,.page-heading h1,.dish-title,.cart-heading h3,.panel-head h2,.modal-head h2,.stock-card h3,.settings-card h2,.prep-card h2,.welcome-empty h1{color:var(--ink)}
+.brand small,.date-caption,.side-note p,.side-note>span,.profile small{color:#76685c}
+.main-nav>button{color:#6b6057}.main-nav>button.active{background:#ffe3ca;color:#9c3e0c}.main-nav>button.active::before{background:var(--orange)}
+.kitchen-switch{background:#fff8ef;border-color:#e6d5c2;color:#58473a}
+.topbar{background:var(--paper);border-color:var(--line)}
+.btn.primary{background:var(--orange);border-color:var(--orange);color:white}.btn.primary:hover{background:var(--orange-dark)}
+.btn.secondary{color:#984417;border-color:#e7cdb8;background:#fff8ef}.btn.secondary:hover{background:#ffecd9}
+.text-button{color:#a74713}.icon-btn{color:#716052}.eyebrow{color:#9a5a33}
+.hero,.hero.library{background:linear-gradient(110deg,#ffecd6,#f7e1c5);border:1px solid #f0d8bc}.hero p,.hero-foot{color:#715a47}.hero-orbit{border-color:#dec19b}.herb-stamp{color:#567c57}
+.dish-card,.cart,.surface,.stock-card,.shopping-list{border-color:var(--line);background:var(--white)}
+.dish-body>p,.dish-bottom>span,.muted,.page-heading p,.cart-date,.cart-note,.recipe-description,.steps p,.small-note{color:#746b62}
+.add-button{background:var(--orange);color:white;border-color:var(--orange);width:40px;height:40px;flex-shrink:0}.add-button.added{background:#fff0e2;color:#a7440c;border-color:#e9bc94}.add-button.neutral{color:#716255;background:#f4ece2;border:1px solid #e6d9cb}
+.search-field{background:#fffdfa;border-color:var(--line);max-width:none}.search-field input{color:#37312b}.search-field input::placeholder{color:#81766c}
+.count-bubble{background:#ffead5;color:#9c3e0b}.prep-card{background:#f7eddf;border-color:var(--line)}.prep-icon,.summary-icon{background:#ffdfbe;color:#a44411}
+.prep-stats b,.ingredient-name>b,.ingredient-amount>b,.setting-row b,.recipe-modal h3,.steps-heading{color:#41372f}
+.ingredient-name>span,.ingredient-amount>span,.setting-row>span:first-child,.member-list b,.member-list>div>span:last-child{color:#75695e}
+.pantry-banner,.stock-icon{background:#eef3e8;color:#52784e}.pantry-banner h3{color:#3f633d}.pantry-banner p{color:#60785a}
+.check-wrap input:checked+.check-visual{background:#64845a;border-color:#64845a}.progress-track>span{background:#64845a}.prepared .ingredient-name>b{color:#65765b}
+.mobile-nav{background:#fffaf5f5;border-color:#e8dacb}.mobile-nav>button{color:#786e64}.mobile-nav>button.active{color:#b14b12}
+.modal,.modal-head{background:#fffaf4}.modal-head{border-color:#ecdfd1}.modal-intro,.form-field,.recipe-ingredients>div,.recipe-ingredients b{color:#726354}
+.form-field input,.form-field textarea,.form-field select{background:#fffefa;color:#3b332d;border-color:#dfcdbb}
+.kitchen-choice{background:#faf0e3;border-color:#e8d5bd;color:#9f5725}.kitchen-choice b{color:#47382c}.kitchen-choice small,.kitchen-choice em{color:#7c6958}.choice-house{background:#f4dec2}
+.invitation-card,.invite-type>button.selected{background:#fff0df;border-color:#e9c49e;color:#9b4d19}.invitation-card h2{color:#583820}.invitation-card small{color:#806851}.inline-info{background:#f4ece0;color:#77634f}
+.toast{background:#44382e}.badge.soft,.pill-tabs button.active,.segmented button.selected{background:#ffe8d3;color:#9c430f}.quiet-note{color:#73695f}.quiet-note svg{color:#658454}
+.calendar-trigger{display:flex;align-items:center;gap:12px;text-align:left;min-height:60px;flex:1;min-width:0;color:var(--ink)}
+.calendar-trigger>span:nth-child(2){display:flex;flex-direction:column;gap:5px;flex:1}.calendar-trigger small{font-size:11px;color:#89715c}.calendar-trigger b{font-size:15px;font-weight:600;line-height:1.5}.calendar-trigger-icon{display:grid;place-items:center;background:#ffe7ce;color:#ad4b12;width:44px;height:44px;border-radius:13px;flex-shrink:0}
+.meal-selector{border:1px solid var(--line);background:#fffaf4;border-radius:16px;padding:8px 16px 12px}.date-section{gap:10px}.open-meal{min-height:44px;min-width:44px;background:#f5eadc;border-radius:12px}
+.meal-options{margin-top:4px;padding-top:9px;border-top:1px solid #eee0d0;justify-content:space-between;align-items:center}.meal-deadline{margin:0;color:#736150;font-size:11px}.meal-options .text-button{display:flex;align-items:center;min-height:36px;font-size:12px}
+.calendar-month{display:flex;align-items:center;justify-content:space-between;margin-bottom:15px}.calendar-month h3{font-size:19px;color:#392e25}.calendar-month button{width:44px;height:44px;border:1px solid #ebd9c6;border-radius:12px}
+.calendar-week,.calendar-grid{display:grid;grid-template-columns:repeat(7,minmax(0,1fr));gap:3px}.calendar-week{margin-bottom:8px;text-align:center;color:#8b7867;font-size:12px}.calendar-week span{padding:7px 0}
+.calendar-grid button{position:relative;min-height:48px;border-radius:12px;font-size:16px;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:5px;border:1px solid transparent;color:#42362c}.calendar-grid button:hover:not(:disabled){background:#fff0df}.calendar-grid button.today{border-color:#e4c6a5}.calendar-grid button.selected,.calendar-grid button.selected:hover{background:#d65b16;color:white;border-color:#d65b16}.calendar-grid button:disabled{opacity:1;color:#bcb3aa;background:#f8f3ed;cursor:default}
+.calendar-dots{height:5px;display:flex;gap:3px}.calendar-dots i,.calendar-legend i{display:inline-block;width:5px;height:5px;border-radius:50%;flex-shrink:0}.mine{background:#d65b16}.others{background:#7761a6}.calendar-grid .selected .mine{background:white}.calendar-grid .selected .others{background:#e4cdff}
+.calendar-legend{display:flex;align-items:center;flex-wrap:wrap;gap:12px;font-size:11px;color:#7d7064;margin:15px 0 22px}.calendar-legend>span{display:flex;align-items:center;gap:5px}.calendar-legend>span:last-child{margin-left:auto}
+.calendar-meals{border-top:1px solid #e8d9c8;padding-top:20px}.calendar-meals h3{font-size:15px;margin-bottom:14px;color:#483829}.calendar-meals>button{display:flex;align-items:center;justify-content:space-between;padding:14px 16px;width:100%;text-align:left;border:1px solid #e9d9c7;border-radius:12px;margin-top:10px;color:#634b37;min-height:72px}.calendar-meals>button.selected{background:#fff0df;border-color:#df9e65;color:#a7440b}.calendar-meals b{font-size:15px;display:block;margin-bottom:7px}.calendar-meals small{font-size:12px;font-weight:400;color:#7f6c5b}.calendar-meals b small{margin-left:10px}
+.menu-browser{display:grid;grid-template-columns:112px minmax(0,1fr);gap:20px;align-items:start}.menu-results{min-width:0}.category-rail{display:flex;flex-direction:column;gap:5px;position:sticky;top:16px;max-height:70vh;overflow-y:auto;background:#f3eadd;border-radius:13px;padding:7px;scrollbar-width:thin;overscroll-behavior:contain}.category-rail button{position:relative;display:flex;align-items:center;justify-content:flex-start;gap:5px;min-height:52px;text-align:left;padding:10px 8px;border-radius:9px;color:#786553;font-size:12px;flex-shrink:0}.category-rail button>span{flex:1}.category-rail button small{font-size:10px;color:#907f6e}.category-rail button svg{flex-shrink:0}.category-rail button.active{background:#fffaf3;color:#a8430b;font-weight:600;box-shadow:0 2px 7px #7e4b1510}.category-rail button.active::before{content:'';position:absolute;left:-7px;width:3px;height:23px;background:var(--orange);border-radius:0 3px 3px 0}
+.result-heading{display:flex;justify-content:space-between;align-items:center;margin-bottom:13px;font-size:13px;color:#5b4635}.result-heading span{font-size:11px;color:#8a7562}
+.recipe-marks{display:flex;align-items:center;gap:6px;flex-wrap:wrap;margin:8px 0}.mark-button{display:inline-flex;align-items:center;gap:5px;min-height:40px;padding:5px 8px;border:1px solid #e7d6c2;border-radius:9px;font-size:11px;color:#87705b;background:#fffbf5}.mark-button.marked{color:#a74712;background:#ffead5;border-color:#eac299}.signature-badge{display:inline-flex;align-items:center;gap:4px;font-size:11px;color:#ac531e;padding:6px}.mobile-cart-shortcut{display:none}.cart{scroll-margin-top:20px}
+@media(min-width:681px){.menu-layout{grid-template-columns:minmax(0,1fr)}.cart{position:static}.dish-grid,.no-cart .dish-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media(min-width:1450px){.menu-layout{grid-template-columns:minmax(0,1fr) 285px}.dish-grid,.no-cart .dish-grid{grid-template-columns:repeat(2,minmax(0,1fr))}.cart{position:sticky;top:20px}}
+@media(max-width:680px){
+  main{padding:12px 12px 100px}.topbar{height:62px;padding:0 14px}.top-actions .btn{min-height:42px}.icon-btn{min-width:44px;min-height:44px}.breadcrumbs>span{font-size:18px;color:#3b3026}.demo-controls select{min-height:32px}.demo-action{min-height:32px}
+  .meal-selector{padding:6px 12px 7px;margin-bottom:14px}.calendar-trigger{gap:9px}.calendar-trigger b{font-size:13px}.calendar-trigger b>span{white-space:nowrap}.calendar-trigger small{font-size:10px}.calendar-trigger-icon{width:38px;height:40px}.meal-options{flex-wrap:nowrap;gap:2px}.meal-deadline{font-size:10px;margin:0}.meal-options .text-button{font-size:11px;white-space:nowrap}.locked-date{line-height:1.8;min-height:52px}
+  .hero{min-height:116px;padding:17px 18px;margin-bottom:20px;border-radius:15px}.hero h1{font-size:20px;max-width:260px;line-height:1.5;margin:5px 0 6px;letter-spacing:0}.hero .eyebrow,.hero-foot{display:none}.hero p{font-size:11px;max-width:230px}.hero-art{top:-2px;right:-45px;opacity:.25;height:120px}.hero-orbit{display:none}
+  .section-heading{margin-bottom:13px}.section-heading h2{font-size:19px}.section-heading .btn{min-height:42px;font-size:12px}.menu-tools{margin-bottom:15px}.search-field{padding:8px 12px;border-radius:12px}.search-field input{min-height:28px;font-size:16px}
+  .menu-browser{grid-template-columns:78px minmax(0,1fr);gap:10px}.category-rail{border-radius:11px;padding:5px;gap:4px;top:10px;max-height:calc(100dvh - 190px)}.category-rail button{flex-wrap:wrap;justify-content:center;text-align:center;padding:10px 3px;min-height:62px;font-size:12px;gap:4px}.category-rail button>span{flex:none;width:100%;line-height:1.5}.category-rail button small{display:none}.category-rail button.active::before{left:-5px}.category-rail button svg{width:15px;height:15px}.result-heading{margin:0 0 10px;font-size:13px}.result-heading span{font-size:10px}
+  .dish-grid,.no-cart .dish-grid{grid-template-columns:minmax(0,1fr);gap:12px}.dish-card{border-radius:13px;overflow:hidden}.dish-picture{height:124px}.dish-picture>.food-art{height:134px;width:180px;margin:auto}.dish-body{padding:12px}.dish-title{font-size:15px;line-height:1.6;text-align:left;min-height:28px}.dish-body>p{font-size:11px;margin:5px 0 7px;min-height:0;line-height:1.7}.dish-bottom{gap:6px;flex-wrap:wrap}.dish-bottom>span{max-width:none;width:100%;flex:1 0 100%;font-size:11px;margin-bottom:3px}.dish-bottom .add-button:last-child{margin-left:auto}.add-button{width:44px;height:44px;border-radius:12px}.dish-bottom .add-button.neutral{margin-left:0}.recipe-marks{gap:5px}.mark-button{font-size:11px;min-height:44px;padding:6px;gap:4px}.signature-badge{font-size:10px}.quiet-note{font-size:10px;line-height:1.8;align-items:flex-start}.quiet-note svg{flex-shrink:0;margin-top:3px}
+  .cart{margin-top:10px;border-radius:16px;padding:20px;scroll-margin-top:12px}.cart .btn{min-height:48px}.mobile-cart-shortcut{display:flex;align-items:center;gap:9px;position:fixed;bottom:calc(76px + env(safe-area-inset-bottom));left:12px;right:12px;z-index:29;min-height:54px;border:1px solid #e9c39f;border-radius:15px;background:#fff4e6;color:#6c4021;padding:9px 13px;box-shadow:0 6px 25px #663a1520}.mobile-cart-shortcut>span{flex:1;text-align:left;font-size:12px}.mobile-cart-shortcut>b{display:flex;align-items:center;gap:4px;color:white;background:#cf5715;border-radius:10px;padding:10px;font-weight:500;font-size:12px}
+  .mobile-nav{padding-top:8px;padding-bottom:calc(8px + env(safe-area-inset-bottom))}.mobile-nav>button{min-height:46px;font-size:11px}.app-footer{padding-bottom:155px}.toast{bottom:154px}
+  .modal-backdrop{align-items:flex-end;padding:0}.modal,.modal.wide{width:100%;max-height:92dvh;border-radius:22px 22px 0 0;padding-bottom:env(safe-area-inset-bottom)}.modal-head{padding:15px 18px 12px}.modal-head h2{font-size:19px}.modal-content{padding:15px 18px 24px}.calendar-month{margin-bottom:8px}.calendar-week{gap:2px;margin-bottom:4px}.calendar-grid{gap:2px}.calendar-grid button{min-height:46px;border-radius:11px}.calendar-legend{gap:10px;font-size:10px;margin:12px 0 16px}.calendar-meals{padding-top:16px}.calendar-meals>button{min-height:70px}.calendar-meals h3{margin-bottom:9px}
+  .stepper{height:44px}.stepper button{width:36px;height:42px}.check-wrap{min-height:44px;align-items:center}.check-wrap input{width:32px;height:44px}.setting-row{min-height:64px}
+}
+
+/* Compact menu and a persistent cart: no checkout content at the end of a long menu. */
+.sync-status{padding:8px 16px;background:#f5ecdc;color:#675441;display:flex;gap:12px;align-items:center;justify-content:center;font-size:12px;line-height:1.6}.sync-status.offline{background:#fff0df;color:#9f421a}.sync-status button{min-height:36px;padding:4px 10px;border:1px solid currentColor;border-radius:8px;white-space:nowrap}
+.menu-layout{grid-template-columns:minmax(0,1fr)}
+.mobile-cart-shortcut{display:flex;align-items:center;gap:12px;position:fixed;bottom:20px;left:max(260px,calc(50% - 170px));right:28px;z-index:29;max-width:650px;min-height:60px;padding:10px 16px;border:1px solid #e9c39f;border-radius:16px;background:#fff4e6;color:#6c4021;box-shadow:0 6px 25px #663a1520}
+.mobile-cart-shortcut>span{flex:1;text-align:left;font-size:13px}.mobile-cart-shortcut>b{display:flex;align-items:center;gap:5px;background:var(--orange);color:white;border-radius:11px;padding:12px;font-size:13px;font-weight:500}
+.sheet-backdrop{align-items:flex-end;padding:0}.modal.sheet{display:flex;flex-direction:column;overflow:hidden;width:560px;max-height:88dvh;border-radius:22px 22px 0 0;margin:0;box-sizing:border-box}.sheet .modal-head{flex-shrink:0}.sheet .modal-content{overflow-y:auto;overscroll-behavior:contain;min-height:0;padding:0}.sheet .modal-footer{flex-shrink:0;border-top:1px solid var(--line);background:#fffaf4;padding:12px 20px calc(16px + env(safe-area-inset-bottom))}.cart-panel{margin:0!important;padding:18px 20px!important;border:0;border-radius:0;box-shadow:none;position:static!important}.cart-panel .cart-heading{display:none}.cart-panel .cart-date{margin:0 0 16px}.cart-panel .cart-item{min-height:64px}.cart-panel .cart-note textarea{font-size:16px}.cart-submit .cart-explain{display:flex;align-items:center;gap:7px;margin:0 0 10px;font-size:11px;color:#786656}.cart-submit>.btn{min-height:48px}.cart-submit>.text-button{min-height:42px;margin-top:6px}.modal.sheet{padding-bottom:0}.app-footer{padding-bottom:110px}
+@media(max-width:680px){
+  .menu-browser{grid-template-columns:62px minmax(0,1fr);gap:8px}.category-rail{padding:4px}.category-rail button{padding:9px 1px;font-size:11px;min-height:58px}.category-rail button.active::before{left:-4px}
+  .dish-grid,.no-cart .dish-grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:8px}.dish-card{min-width:0;border-radius:11px;display:flex;flex-direction:column}.dish-picture{height:90px;flex-shrink:0}.dish-picture>.food-art{width:118px;max-width:100%;height:100px}.dish-body{padding:8px;flex:1;display:flex;flex-direction:column;min-width:0}.dish-title{font-size:12px;line-height:1.6;min-height:39px;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}.dish-body>p{display:none}.recipe-marks{gap:3px;margin:3px 0;min-height:44px}.mark-button{width:44px;min-width:44px;height:44px;padding:0;justify-content:center;border:0;background:#fff5e8}.mark-button>span{display:none}.signature-badge{font-size:9px;padding:0;gap:2px}.signature-badge svg{width:12px}.dish-bottom{margin-top:auto;gap:3px}.dish-bottom>span{font-size:10px;line-height:1.6;gap:2px;margin-bottom:2px}.dish-bottom>span>svg{display:none}.dish-bottom .add-button{width:44px;height:44px;border-radius:10px}.quick-tag{font-size:8px;padding:3px;left:5px;top:5px}.quick-tag svg{display:none}
+  .mobile-cart-shortcut{left:12px;right:12px;bottom:calc(76px + env(safe-area-inset-bottom));max-width:none;min-height:56px;padding:8px 12px;gap:8px}.mobile-cart-shortcut>span{font-size:12px}.mobile-cart-shortcut>b{font-size:12px;padding:11px 9px}.modal.sheet{width:100%;max-height:88dvh}.app-footer{padding-bottom:155px}
+}
+
+/* Whole-row kitchen rename entry, shared by permanent members. */
+.kitchen-name-setting{width:100%;min-height:88px;gap:14px;text-align:left}
+.kitchen-name-setting>span:first-child{min-width:0;flex:1}
+.kitchen-name-setting b{overflow-wrap:anywhere}
+.setting-row small{display:block;font-size:11px;color:#8c8075;margin-top:7px;font-weight:400}
+.kitchen-name-edit{display:flex;align-items:center;gap:5px;color:var(--accent,#c96f3e);font-size:12px;flex-shrink:0;min-height:44px}
+.kitchen-name-setting:hover .kitchen-name-edit{color:#a34e21}
+
+.mobile-recipe-nav{display:none}
+@media(max-width:680px){
+  .mobile-recipe-nav{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:10px;margin:0 0 20px}
+  .mobile-recipe-nav>button{display:flex;align-items:center;gap:10px;min-width:0;min-height:72px;padding:12px;border:1px solid var(--line);border-radius:12px;background:var(--white);color:var(--ink);text-align:left}
+  .mobile-recipe-nav>button.active{border-color:var(--orange);background:var(--soft-orange)}
+  .recipe-nav-icon{display:grid;place-items:center;flex-shrink:0;width:32px;height:36px;border-radius:9px;background:var(--tint);color:var(--orange)}
+  .mobile-recipe-nav b{display:block;font-size:13px;font-weight:600;line-height:1.6}
+  .mobile-recipe-nav small{display:block;margin-top:3px;font-size:10px;line-height:1.6;color:var(--muted)}
+}
+/* Keep a busy prep list scannable without making the dish controls feel cramped. */
+.chef-dish{padding:10px 12px;gap:12px;margin-bottom:9px;min-height:86px}
+.chef-food{width:78px;height:66px;border-radius:9px}
+.chef-food .food-art{width:82px;height:68px}
+.chef-dish-info>p{margin:5px 0 5px;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.portion small{margin-bottom:6px}
+@media(max-width:680px){
+  .chef-dish{padding:8px;gap:8px;margin-bottom:8px;min-height:72px}
+  .chef-food{width:52px;height:52px;border-radius:9px}
+  .chef-food .food-art{width:58px;height:52px}
+  .chef-dish .dish-title{font-size:12px;line-height:1.35;max-width:100%;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+  .chef-dish-info>p{font-size:9px;margin:3px 0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+  .chef-dish-info>.muted{font-size:8px;white-space:nowrap}
+  .portion small{font-size:8px;margin-bottom:4px}
+  .chef-dish .stepper{height:40px}
+  .chef-dish .stepper button{width:34px;height:38px}
+  .chef-dish .stepper b{min-width:24px;font-size:11px}
+}

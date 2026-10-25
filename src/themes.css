@@ -1,0 +1,114 @@
+/* All UI chrome uses semantic tokens. Food illustrations, member colors and
+   success/warning/error indicators keep their own meaning across themes. */
+:root {
+  --paper:var(--theme-paper,#faf6f0); --white:var(--theme-white,#fffdfa);
+  --ink:var(--theme-ink,#302d2a); --muted:var(--theme-muted,#726b65);
+  --line:var(--theme-line,#e9dfd4); --orange:var(--theme-accent,#b94d17);
+  --orange-dark:var(--theme-hover,#983b0d); --soft-orange:var(--theme-soft,#fff0e2);
+  --tint:var(--theme-tint,#f2e6d8); --companion:var(--theme-companion,#e8bc8a);
+  color-scheme:light;
+}
+body,.topbar { background:var(--paper); color:var(--ink) }
+button:focus-visible,a:focus-visible { outline-color:var(--orange) }
+input:focus,textarea:focus,select:focus { outline-color:var(--orange) }
+.demo-bar,.sidebar,.category-rail { background:var(--tint); color:var(--muted); border-color:var(--line) }
+.demo-controls select,.kitchen-switch { background:var(--white); color:var(--ink); border-color:var(--line) }
+.brand-symbol { background:var(--orange) }
+.brand small,.date-caption,.side-note p,.side-note>span,.profile small,.main-nav>button,.nav-caption,.nav-caption.second,.kitchen-icon { color:var(--muted) }
+.main-nav>button.active { background:var(--soft-orange); color:var(--orange) }
+.nav-number,.count-bubble,.badge.soft,.pill-tabs button.active,.segmented button.selected { background:var(--soft-orange); color:var(--orange) }
+.btn.secondary { color:var(--orange); border-color:var(--line); background:var(--white) }
+.btn.secondary:hover { background:var(--soft-orange) }
+.text-button,.eyebrow,.source-link,.signature-badge { color:var(--orange) }
+.icon-btn { color:var(--muted) }
+.hero,.hero.library { background:linear-gradient(115deg,var(--soft-orange),var(--tint)); border-color:var(--line) }
+.hero p,.hero-foot { color:var(--muted) }
+.hero-orbit,.hero-orbit:after { border-color:var(--companion) }
+.dish-card,.cart,.surface,.stock-card,.shopping-list,.search-field { background:var(--white); border-color:var(--line) }
+.dish-body>p,.dish-bottom>span,.muted,.page-heading p,.cart-date,.cart-note,.recipe-description,.steps p,.small-note,.ingredient-name>span,.ingredient-amount>span { color:var(--muted) }
+.add-button.added { background:var(--soft-orange); color:var(--orange); border-color:var(--companion) }
+.add-button.neutral { background:var(--paper); color:var(--muted); border-color:var(--line) }
+.search-field input { color:var(--ink) }
+.search-field input::placeholder { color:var(--muted) }
+.prep-card { background:var(--soft-orange); border-color:var(--line) }
+.prep-icon,.summary-icon,.calendar-trigger-icon,.review-heart { background:var(--tint); color:var(--orange) }
+.prep-stats b,.ingredient-name>b,.ingredient-amount>b,.setting-row b,.recipe-modal h3,.steps-heading { color:var(--ink) }
+.prep-card>p,.setting-row>span:first-child,.member-list b,.member-list>div>span:last-child { color:var(--muted) }
+.mobile-nav { background:var(--white); border-color:var(--line) }
+.mobile-nav>button { color:var(--muted); min-width:0; flex:1 }
+.mobile-nav>button.active { color:var(--orange) }
+.modal,.modal-head,.modal-footer,.sheet .modal-footer { background:var(--white); border-color:var(--line) }
+.modal-intro,.form-field,.recipe-ingredients>div,.recipe-ingredients b { color:var(--muted) }
+.form-field input,.form-field textarea,.form-field select,.cart-note textarea { background:var(--paper); color:var(--ink); border-color:var(--line) }
+.kitchen-choice { background:var(--soft-orange); border-color:var(--line); color:var(--orange) }
+.kitchen-choice b,.invitation-card h2 { color:var(--ink) }
+.kitchen-choice small,.kitchen-choice em,.invitation-card small { color:var(--muted) }
+.choice-house { background:var(--tint) }
+.invitation-card,.invite-type>button.selected { background:var(--soft-orange); border-color:var(--companion); color:var(--orange) }
+.inline-info { background:var(--paper); color:var(--muted) }
+.quiet-note,.calendar-trigger small,.meal-deadline { color:var(--muted) }
+.meal-selector { background:var(--white); border-color:var(--line) }
+.open-meal { background:var(--tint) }
+.meal-options,.calendar-meals { border-color:var(--line) }
+.calendar-month h3,.calendar-meals h3,.calendar-grid button { color:var(--ink) }
+.calendar-month button,.calendar-meals>button { border-color:var(--line) }
+.calendar-week,.calendar-legend,.calendar-meals small { color:var(--muted) }
+.calendar-grid button:hover:not(:disabled),.calendar-meals>button.selected { background:var(--soft-orange); color:var(--orange) }
+.calendar-grid button.today { border-color:var(--companion) }
+.calendar-grid button.selected,.calendar-grid button.selected:hover { background:var(--orange); color:white; border-color:var(--orange) }
+.calendar-grid button:disabled { background:var(--paper); color:var(--muted); opacity:.6 }
+.calendar-meals>button { color:var(--ink) }
+.mine { background:var(--orange) }
+.category-rail button,.category-rail button small { color:var(--muted) }
+.category-rail button.active { background:var(--white); color:var(--orange) }
+.result-heading { color:var(--ink) }.result-heading span { color:var(--muted) }
+.mark-button { color:var(--muted); background:var(--white); border-color:var(--line) }
+.mark-button.marked { color:var(--orange); background:var(--soft-orange); border-color:var(--companion) }
+.mobile-cart-shortcut { background:var(--white); color:var(--ink); border-color:var(--line) }
+.mobile-cart-shortcut>b { background:var(--orange) }
+.sync-status:not(.offline) { background:var(--tint); color:var(--muted) }
+.icon-btn:hover { background:var(--soft-orange) }
+.dish-picture,.dish-picture.beef,.dish-picture.shrimp,.dish-picture.soup,.dish-picture.greens,.dish-picture.tofu { background:var(--tint) }
+.quick-tag,.badge.neutral { background:var(--paper); color:var(--muted) }
+.shopping-summary { background:var(--soft-orange); border-color:var(--line) }.shopping-summary b { color:var(--ink) }.shopping-summary span:not(.summary-icon) { color:var(--muted) }
+.stock-card>p,.stock-bottom>span,.setting-row small,.feedback-entry p,.feedback-entry small { color:var(--muted) }
+.stock-bottom,.feedback-entry { border-color:var(--line) }
+.stepper button { background:var(--paper); color:var(--muted) }
+.setting-row svg { color:var(--muted) }.kitchen-name-edit,.kitchen-name-setting:hover .kitchen-name-edit { color:var(--orange) }
+.cart-submit .cart-explain { color:var(--muted) }
+.cart-heading h3,.cart-item b,.cart-note { color:var(--ink) }
+.cart-date,.cart-item small,.cart-explain,.cart-empty,.cart-empty p,.cart-empty small { color:var(--muted) }
+.cart-item,.cart-heading,.cart-date,.cart-total,.cart-divider { border-color:var(--line) }
+.cart-thumb,.cart-heading>svg,.cart-empty>svg { background:var(--soft-orange); color:var(--orange) }
+.review-invitation { background:linear-gradient(110deg,var(--soft-orange),var(--white)); border-color:var(--line); color:var(--ink) }
+.review-invitation small,.review-welcome p,.review-target-heading small,.review-compose-bottom,.review-privacy,.review-note time,.review-note b small,.review-empty,.review-empty p { color:var(--muted) }
+.review-welcome h3,.review-target-heading>b,.review-target-heading h3,.review-compose>label,.review-note p { color:var(--ink) }
+.review-whole,.review-dish-picker select,.review-compose,.review-note { background:var(--white); border-color:var(--line); color:var(--ink) }
+.review-whole.selected { background:var(--soft-orange); border-color:var(--orange); color:var(--orange) }
+.review-compose textarea { background:var(--paper) }.review-compose textarea::placeholder { color:var(--muted) }
+.review-emojis button:hover,.review-kind { background:var(--soft-orange); color:var(--orange) }
+.review-dish-name { color:var(--orange) }
+.chef-dish,.panel-head,.order-footer,.setting-row,.member-list,.recipe-ingredients>div { border-color:var(--line) }
+.chef-food,.order-dishes>button,.stock-icon.neutral,.notes-panel { background:var(--soft-orange) }
+.chef-dish-info>p,.portion small,.order-note,.order-footer,.notes-panel p { color:var(--muted) }
+.stepper,.stepper button { border-color:var(--line) }.stepper b,.notes-panel h3 { color:var(--ink) }
+.app-footer { border-color:var(--line); color:var(--muted) }
+.theme-setting small { display:block; margin-top:6px; color:var(--muted); font-size:11px; font-weight:400 }
+.theme-setting-end { display:flex; align-items:center; gap:5px }.theme-setting-end i { width:17px; height:17px; border:2px solid var(--white); border-radius:50%; box-shadow:0 0 0 1px var(--line) }.theme-setting-end i+i { margin-left:-10px }.theme-setting-end svg { margin-left:5px }
+.theme-panel { padding:18px 20px 22px }
+.theme-intro { font-size:13px; color:var(--muted); line-height:1.9; margin-bottom:20px }
+.theme-options { display:flex; flex-direction:column; gap:10px }
+.theme-option { display:flex; gap:14px; align-items:center; text-align:left; padding:12px; border:1px solid var(--line); border-radius:15px; background:var(--white); min-height:96px; width:100% }
+.theme-option.selected { border-color:var(--orange); box-shadow:0 0 0 1px var(--orange) }
+.theme-preview { display:flex; align-items:center; justify-content:center; position:relative; flex-shrink:0; width:90px; height:70px; background:var(--preview-paper); border:1px solid var(--preview-tint); border-radius:10px; overflow:hidden }
+.theme-preview-window { position:relative; display:flex; flex-direction:column; align-items:flex-start; gap:4px; width:59px; height:49px; padding:7px; background:var(--preview-tint); border-radius:7px; transform:rotate(-6deg) }
+.theme-preview-window svg { color:var(--preview-accent); position:absolute; right:6px; top:8px }.theme-preview-window i { width:19px; height:3px; background:var(--preview-accent); border-radius:2px; opacity:.4 }.theme-preview-window i+i { width:12px }.theme-preview-window b { width:24px; height:7px; border-radius:3px; background:var(--preview-accent); margin-top:4px }
+.theme-swatches { position:absolute; bottom:6px; right:5px; display:flex }.theme-swatches i { width:13px; height:13px; border:2px solid var(--preview-paper); border-radius:50%; background:var(--preview-accent) }.theme-swatches i+i { margin-left:-4px; background:var(--preview-companion) }.theme-swatches i:last-child { background:var(--preview-tint) }
+.theme-option-copy { flex:1; min-width:0 }.theme-option-copy b { display:block; font-family:'Songti SC',SimSun,serif; font-size:18px; letter-spacing:1.5px; font-weight:500; color:var(--ink) }.theme-option-copy small { display:block; font-size:11px; line-height:1.8; color:var(--muted); margin-top:6px; text-wrap:pretty }
+.theme-check { width:23px; height:23px; border:1px solid var(--line); border-radius:50%; display:grid; place-items:center; flex-shrink:0 }.theme-check.checked { background:var(--orange); color:white; border-color:var(--orange) }
+.theme-footnote { font-size:11px; line-height:1.8; color:var(--muted); margin-top:18px }
+@media(max-width:680px) {
+  .mobile-nav { padding-left:4px; padding-right:4px }
+  .theme-panel { padding:16px }
+  .theme-option { gap:11px; padding:10px; min-height:96px }.theme-preview { width:72px; height:68px }.theme-option-copy b { font-size:17px }.theme-check { width:21px; height:21px }
+}

@@ -1,0 +1,49 @@
+{
+  "archiveSha256": "d878698b392acf4ba698d21fffee2821ad084e6859f86028b7a1081d4fdc4903",
+  "items": {
+    "howtocook-547705f2774cf0ed53bc": {
+      "status": "reject",
+      "reason": "生鱼处理图"
+    },
+    "howtocook-9c598d5ae0973cc37cbf": {
+      "status": "reject",
+      "reason": "拌粉原料过程图"
+    },
+    "howtocook-dacc0e7e690a15f03282": {
+      "status": "reject",
+      "reason": "未炒制的肉片及青椒"
+    },
+    "howtocook-1473dff6924a687cdac0": {
+      "status": "reject",
+      "reason": "过滤调料的过程图"
+    },
+    "howtocook-6a4a7145b1369b5d2ff5": {
+      "status": "needs_review",
+      "reason": "高压锅烹饪画面，需核对是否完成后的成品"
+    },
+    "howtocook-f3bcbbe6cbfb35055d94": {
+      "status": "reject",
+      "reason": "未烹饪的青椒填馅"
+    },
+    "howtocook-f3e472bcc3e687e5ebed": {
+      "status": "needs_review",
+      "reason": "空气炸锅内薯条，需核对是否为烹饪完成状态"
+    },
+    "howtocook-68ca6633c10d07d9d276": {
+      "status": "needs_review",
+      "reason": "水中汤圆，需核对是否已煮熟的成品图"
+    },
+    "howtocook-65d4c06a5b4800be6aaf": {
+      "status": "reject",
+      "reason": "生米加水的过程图"
+    },
+    "howtocook-cf3dabc066de2aa054f0": {
+      "status": "reject",
+      "reason": "生米加水的过程图"
+    },
+    "howtocook-a4b59bbb98523c61307c": {
+      "status": "reject",
+      "reason": "接近空锅，不能呈现成品主体"
+    }
+  }
+}
